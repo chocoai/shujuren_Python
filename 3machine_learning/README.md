@@ -28,7 +28,7 @@
 数据人Python语言其它主题。
 
 1. 数据可视化
-2. 数据处理([file](../data_process))
-3. 数据项目([file](../4data_project))
+2. 数据处理([file](https://github.com/wangluqing/shujuren_Python/tree/master/2data_process/))
+3. 数据项目([file](https://github.com/wangluqing/shujuren_Python/tree/master/4data_project/))
 
-**开始时间:**2018年1月1日
+**开始时间**:2018年1月1日
