@@ -4,7 +4,7 @@
 
 **R语言**公众号，分享和传播R语言的知识，欢迎关注。
 
-![扫一扫，关注R语言](figures/R语言公众号.jpg)("扫一扫，关注R语言")
+[![扫一扫，关注R语言](figures/R语言公众号.jpg)]("扫一扫，关注R语言")
 
 This video series will teach you how to solve machine learning problems using Python's popular scikit-learn library. It was [featured on Kaggle's blog](http://blog.kaggle.com/author/kevin-markham/) in 2015.
 
