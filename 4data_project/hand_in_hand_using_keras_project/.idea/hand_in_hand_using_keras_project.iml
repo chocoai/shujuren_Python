@@ -6,6 +6,7 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="hand_in_hand_using_keras_mnist_project" />
     <orderEntry type="module" module-name="hand_in_hand_using_sklearn_line_model_project" />
+    <orderEntry type="module" module-name="hand_in_hand_using_sklearn_ensemble_project" />
   </component>
   <component name="TestRunnerService">
     <option name="projectConfiguration" value="py.test" />
