@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../hand_in_hand_using_keras_classify_hand_written_digits_project/.idea/hand_in_hand_using_keras_classify_hand_written_digits_project.iml" filepath="$PROJECT_DIR$/../hand_in_hand_using_keras_classify_hand_written_digits_project/.idea/hand_in_hand_using_keras_classify_hand_written_digits_project.iml" />
       <module fileurl="file://$PROJECT_DIR$/../hand_in_hand_using_keras_mnist_project/.idea/hand_in_hand_using_keras_mnist_project.iml" filepath="$PROJECT_DIR$/../hand_in_hand_using_keras_mnist_project/.idea/hand_in_hand_using_keras_mnist_project.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/hand_in_hand_using_keras_project.iml" filepath="$PROJECT_DIR$/.idea/hand_in_hand_using_keras_project.iml" />
       <module fileurl="file://$PROJECT_DIR$/../hand_in_hand_using_sklearn_ensemble_project/.idea/hand_in_hand_using_sklearn_ensemble_project.iml" filepath="$PROJECT_DIR$/../hand_in_hand_using_sklearn_ensemble_project/.idea/hand_in_hand_using_sklearn_ensemble_project.iml" />
