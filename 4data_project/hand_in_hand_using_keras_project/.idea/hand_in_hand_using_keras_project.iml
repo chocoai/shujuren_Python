@@ -8,6 +8,7 @@
     <orderEntry type="module" module-name="hand_in_hand_using_sklearn_line_model_project" />
     <orderEntry type="module" module-name="hand_in_hand_using_sklearn_ensemble_project" />
     <orderEntry type="module" module-name="hand_in_hand_using_keras_classify_hand_written_digits_project" />
+    <orderEntry type="module" module-name="hand_in_hand_machine_learning_project" />
   </component>
   <component name="TestRunnerService">
     <option name="projectConfiguration" value="py.test" />
