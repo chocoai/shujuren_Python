@@ -5,11 +5,11 @@
 # 第一步：获取mysql数据
 import pymysql
 conn = pymysql.connect(
-    host = 'rr-wz97ef26t0u41fdu1o.mysql.rds.aliyuncs.com',
-    user = 'wangluqing',
-    password = 'Wanglq2$3dF0^17Lt1025',
+    host = '',
+    user = '',
+    password = '',
     port = 3306,
-    database = 'win_bizdata',
+    database = '',
     charset='utf8'
 )
 
