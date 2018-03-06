@@ -1,5 +1,4 @@
 #高德POI获取Demo
-#
 import xlwt #创建Excel，见代码行8，9，11，25，28；CMD下：运行pip install xlwt进行安装
 import urllib.request # url请求，Python3自带，Python2与3中urllib的区别见：http://blog.csdn.net/Jurbo/article/details/52313636
 from bs4 import BeautifulSoup # 快速获取网页标签内容的库；CMD下：运行pip install beautifulsoup4进行安装
