@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B00156E45L	凯德七宝购物广场(东门)	通行设施;建筑物门;建筑物正门	991001	七莘路3655号凯德七宝购物广场F1层	121.341893,31.165326	上海市	上海市	闵行区	2177

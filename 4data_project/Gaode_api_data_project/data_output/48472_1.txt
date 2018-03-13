@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGG7DM4	冠亚广场(东北门)	通行设施;建筑物门;建筑物正门	991001	八一七北路与冠亚美食街交叉口西南50米	119.301340,26.078117	福建省	福州市	鼓楼区	48472

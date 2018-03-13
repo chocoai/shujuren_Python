@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFH3Z6M6	中环广场·园山居(东北门)	通行设施;建筑物门;建筑物正门	991001	书院街19号中环广场·园山居F1层	120.740724,31.643182	江苏省	苏州市	常熟市	15918
+B0FFFTKGBQ	百盛(西门)	通行设施;建筑物门;建筑物正门	991001	方塔街106号百盛F1层	120.741293,31.643748	江苏省	苏州市	常熟市	15918

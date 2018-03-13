@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B001C8TXNQ	壹购潮流广场(东南门)	通行设施;建筑物门;建筑物正门	991001	东大街上东大街段133号壹购潮流广场F1层	104.074177,30.654772	四川省	成都市	锦江区	27417

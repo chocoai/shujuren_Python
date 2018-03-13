@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHDTXNP	永旺梦乐城(C门)	通行设施;建筑物门;建筑物正门	991001	越溪苏震桃路188号永旺梦乐城1F层	120.612262,31.194257	江苏省	苏州市	吴中区	16020

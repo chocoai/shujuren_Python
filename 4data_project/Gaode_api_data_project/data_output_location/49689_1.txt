@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHS74WO	顺鑫寰宇中心(西正门)	通行设施;建筑物门;建筑物正门	991001	站前北街与站前街交叉口东北150米	116.647069,40.126677	北京市	北京市	顺义区	49689

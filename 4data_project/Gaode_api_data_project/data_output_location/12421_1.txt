@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFFZV17C	鸿禧优活中心(东门)	通行设施;建筑物门;建筑物正门	991001	光明北路281号	113.361543,22.952197	广东省	广州市	番禺区	12421

@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFI7WBNZ	和谐广场(东南门)	通行设施;建筑物门;建筑物正门	991001	向阳路116号银座和谐广场1F层	120.424780,36.161635	山东省	青岛市	李沧区	17346

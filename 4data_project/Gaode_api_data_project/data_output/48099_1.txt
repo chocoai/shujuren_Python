@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHMM23P	岭南站(南门)	通行设施;建筑物门;建筑物正门	991001	祖庙路29号岭南站F1层	113.112881,23.027239	广东省	佛山市	禅城区	48099

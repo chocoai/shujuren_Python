@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFG49J6J	裕坤美城大厦(南门)	通行设施;建筑物门;建筑物正门	991001	长江路265号附近	120.754190,31.670470	江苏省	苏州市	常熟市	24365

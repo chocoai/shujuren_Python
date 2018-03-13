@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFH45WW6	富弘广场(北1门)	通行设施;建筑物门;建筑物正门	991001	罗村沿江北路1号富弘广场F1层	113.045611,23.060099	广东省	佛山市	南海区	22042

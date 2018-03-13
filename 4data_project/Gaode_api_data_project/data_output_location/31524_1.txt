@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFH9CIQY	海印又一城奥特莱斯广场(西1门)	通行设施;建筑物门;建筑物正门	991001	番禺大道北383号海印又一城奥特莱斯广场F1层	113.349033,22.998304	广东省	广州市	番禺区	31524

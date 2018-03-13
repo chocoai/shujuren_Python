@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGCHXX4	万达广场(南一门)	通行设施;建筑物门;建筑物正门	991001	经四路5号万达广场1F层	117.003971,36.662335	山东省	济南市	市中区	13080
+B0FFGPMJ8B	万达广场(南二门)	通行设施;建筑物门;建筑物正门	991001	经四路5号万达广场1F层	117.001993,36.662138	山东省	济南市	市中区	13080

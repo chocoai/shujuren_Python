@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHGBAOE	证大·大拇指广场(南门)	通行设施;建筑物门;建筑物正门	991001	劲松八路与同安路交叉口东北150米	120.447792,36.109001	山东省	青岛市	崂山区	2009

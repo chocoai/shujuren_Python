@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFIRTNVN	恒大未来天地A馆(西门)	通行设施;建筑物门;建筑物正门	991001	大学城中路与大学城南一路交叉口西150米	106.305506,29.583421	重庆市	重庆市	沙坪坝区	51605

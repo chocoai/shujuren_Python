@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFG2P6NC	世纪金花南区(东2门)	通行设施;建筑物门;建筑物正门	991001	未央路150号世纪金花南区F1层	108.946720,34.328540	陕西省	西安市	未央区	57049

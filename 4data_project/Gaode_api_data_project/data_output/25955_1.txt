@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFFRZ7ZO	宁波世界贸易中心(西南门)	通行设施;建筑物门;建筑物正门	991001	东渡路29号	121.557922,29.868101	浙江省	宁波市	海曙区	25955

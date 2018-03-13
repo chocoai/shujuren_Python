@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFI6FBZP	世纪金源购物中心B区(东北门)	通行设施;建筑物门;建筑物正门	991001	紫云路5566号附近	117.288997,31.743745	安徽省	合肥市	包河区	15583

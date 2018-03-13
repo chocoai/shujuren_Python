@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFF2JW9W	东方城购物中心(西北1门)	通行设施;建筑物门;建筑物正门	991001	黑龙江中路2111号	120.427558,36.237663	山东省	青岛市	城阳区	25575

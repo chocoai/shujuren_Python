@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFI56BBI	昆山九方购物中心(西南门)	通行设施;建筑物门;建筑物正门	991001	萧林中路666号昆山九方购物中心F1层	120.955219,31.404600	江苏省	苏州市	昆山市	48411

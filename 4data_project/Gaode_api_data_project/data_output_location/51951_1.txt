@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHHAH3M	明泉·财富108广场南楼(东南门)	通行设施;建筑物门;建筑物正门	991001	七莘路1839号	121.362113,31.134555	上海市	上海市	闵行区	51951

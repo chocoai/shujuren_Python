@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHQ00IX	海林广场(西北门)	通行设施;建筑物门;建筑物正门	991001	东吴大道1116号海林广场F1层	114.143848,30.623250	湖北省	武汉市	东西湖区	16435

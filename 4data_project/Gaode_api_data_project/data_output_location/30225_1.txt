@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHADH0V	三兴副食商场(东北门)	通行设施;建筑物门;建筑物正门	991001	大桥道与胜利路交叉口西50米	117.072846,39.382050	天津市	天津市	武清区	30225

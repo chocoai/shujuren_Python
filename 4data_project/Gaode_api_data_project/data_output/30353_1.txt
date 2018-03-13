@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFH1DEOQ	绿地中心(北门)	通行设施;建筑物门;建筑物正门	991001	共青团路25号绿地中心F1层	117.007479,36.663699	山东省	济南市	市中区	30353

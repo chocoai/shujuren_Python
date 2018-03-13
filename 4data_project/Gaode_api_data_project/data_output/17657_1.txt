@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFF2C4K8	北京中粮广场购物中心(西门)	通行设施;建筑物门;建筑物正门	991001	建国门内大街8号	116.429317,39.907079	北京市	北京市	东城区	17657

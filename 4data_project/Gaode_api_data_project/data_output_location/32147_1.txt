@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGZX32W	新华医院门诊楼(西门)	通行设施;建筑物门;建筑物正门	991001	控江路1665号新华医院门诊楼1F层	121.517968,31.274352	上海市	上海市	杨浦区	32147

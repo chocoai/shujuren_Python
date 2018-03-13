@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFG2TCTF	福佳新天地购物广场(西南门)	通行设施;建筑物门;建筑物正门	991001	五一路与北山路交汇	121.711205,39.095532	辽宁省	大连市	金州区	13107

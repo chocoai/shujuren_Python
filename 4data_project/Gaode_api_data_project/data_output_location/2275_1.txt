@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFG4BP5C	万达广场(3号门)	通行设施;建筑物门;建筑物正门	991001	东风大道111号万达广场F1层	114.174263,30.506412	湖北省	武汉市	蔡甸区	2275
+B0FFG4BP5D	万达广场(2号门)	通行设施;建筑物门;建筑物正门	991001	东风大道111号万达广场1层	114.174159,30.507818	湖北省	武汉市	蔡甸区	2275

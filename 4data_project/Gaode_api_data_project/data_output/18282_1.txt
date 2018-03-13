@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHLGOAL	万科里(1号门)	通行设施;建筑物门;建筑物正门	991001	杏林街道宁海一里64-66号万科里F1层	118.061730,24.562005	福建省	厦门市	集美区	18282

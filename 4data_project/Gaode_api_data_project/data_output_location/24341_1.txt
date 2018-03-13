@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGFJA1W	环球188购物中心(南二门)	通行设施;建筑物门;建筑物正门	991001	苏州工业园区苏惠路88号环球188B座	120.670112,31.313503	江苏省	苏州市	吴中区	24341

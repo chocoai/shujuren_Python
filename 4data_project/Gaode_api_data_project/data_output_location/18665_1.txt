@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFH1BFH2	家天下生活广场(2号门)	通行设施;建筑物门;建筑物正门	991001	铜陵北路与扶疏路交汇处家天下生活广场F1层	117.326493,31.894672	安徽省	合肥市	瑶海区	18665

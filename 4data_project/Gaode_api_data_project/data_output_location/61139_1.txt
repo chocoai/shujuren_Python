@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHBTGIB	中福实业大厦(东南门)	通行设施;建筑物门;建筑物正门	991001	天钥桥路93	121.441873,31.192973	上海市	上海市	徐汇区	61139

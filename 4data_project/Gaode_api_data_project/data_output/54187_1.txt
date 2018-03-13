@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGAOEIR	名邦广场(南门)	通行设施;建筑物门;建筑物正门	991001	上派镇金寨南路与站前路交汇处东北角名邦广场F1层	117.154090,31.713242	安徽省	合肥市	肥西县	54187

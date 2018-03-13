@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFG0UZOG	雅居乐国际广场(东北门)	通行设施;建筑物门;建筑物正门	991001	西藏中路525号	121.473552,31.236258	上海市	上海市	黄浦区	17610

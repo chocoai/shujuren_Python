@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFH0AJ30	龙德广场(东4门)	通行设施;建筑物门;建筑物正门	991001	立汤路186号龙德广场F1层	116.416098,40.059852	北京市	北京市	昌平区	26710

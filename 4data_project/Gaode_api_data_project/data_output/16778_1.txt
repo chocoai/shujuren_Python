@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFG1UVA9	万菱汇(北2门)	通行设施;建筑物门;建筑物正门	991001	天河路230-232号万菱汇L1层	113.329766,23.132983	广东省	广州市	天河区	16778

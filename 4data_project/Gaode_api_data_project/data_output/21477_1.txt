@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGA85MK	来福士写字楼(西北门)	通行设施;建筑物门;建筑物正门	991001	人民南路四段3号来福士广场F1层	104.067499,30.632155	四川省	成都市	武侯区	21477

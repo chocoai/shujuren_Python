@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGCBY4Y	世纪大厦(西北门)	通行设施;建筑物门;建筑物正门	991001	京汉大道852号	114.286725,30.585119	湖北省	武汉市	江岸区	28200

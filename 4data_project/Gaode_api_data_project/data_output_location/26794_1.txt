@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGB4G1C	茂业天地(南门)	通行设施;建筑物门;建筑物正门	991001	盐市口东御街19号茂业天地F1层	104.070375,30.656922	四川省	成都市	锦江区	26794

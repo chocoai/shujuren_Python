@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHEIAKJ	经发大厦(东2门)	通行设施;建筑物门;建筑物正门	991001	未央路132号	108.946623,34.318614	陕西省	西安市	未央区	23067

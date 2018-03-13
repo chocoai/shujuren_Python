@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFFR6DH8	百花总汇B馆(西门)	通行设施;建筑物门;建筑物正门	991001	祖庙路35号附近	113.112246,23.025991	广东省	佛山市	禅城区	4153

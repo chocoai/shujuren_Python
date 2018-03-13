@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHEZ8VR	恒福国际商业中心(西一门)	通行设施;建筑物门;建筑物正门	991001	季华六路11号恒福国际商业中心F1层	113.137113,23.013144	广东省	佛山市	禅城区	20758
+B0FFHEJDLP	恒福中心(西门)	通行设施;建筑物门;建筑物正门	991001	忠义路与朝安南路交叉口东100米	113.137130,23.012832	广东省	佛山市	禅城区	20758

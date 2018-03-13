@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFFRCPYT	天虹商场厦门大西洋店(东门)	通行设施;建筑物门;建筑物正门	991001	湖滨西路9号	118.078804,24.462137	福建省	厦门市	思明区	50544
+B0FFGKA6ZP	天虹商场厦门汇腾店商场店(东2门)	通行设施;建筑物门;建筑物正门	991001	嘉禾路321号	118.127456,24.491820	福建省	厦门市	思明区	50544

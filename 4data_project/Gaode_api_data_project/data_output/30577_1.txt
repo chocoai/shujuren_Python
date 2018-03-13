@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGJ3OXM	喜德福购物广场(东正门)	通行设施;建筑物门;建筑物正门	991001	张衡路喜德福购物广场亿佰家生活超市	114.058784,22.658813	广东省	深圳市	龙岗区	30577

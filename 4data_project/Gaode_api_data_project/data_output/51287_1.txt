@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFG8S7N4	协信星光广场解放碑店(西北门)	通行设施;建筑物门;建筑物正门	991001	五一路99号	106.580272,29.558286	重庆市	重庆市	渝中区	51287

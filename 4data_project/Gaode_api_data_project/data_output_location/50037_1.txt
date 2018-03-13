@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGJ56G7	麦购休闲广场(西门)	通行设施;建筑物门;建筑物正门	991001	滨江道211号麦购休闲广场F1层	117.197931,39.122399	天津市	天津市	和平区	50037
+B0FFG9AMF5	in base时尚基地滨江道店(北门)	通行设施;建筑物门;建筑物正门	991001	山西路与滨江道交叉口西100米	117.196775,39.122052	天津市	天津市	和平区	50037

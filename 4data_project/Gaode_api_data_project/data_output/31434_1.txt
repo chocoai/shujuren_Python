@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHD66EA	龙湖北京大兴天街购物中心(1号门)	通行设施;建筑物门;建筑物正门	991001	新源大街与永大路交汇处龙湖北京大兴天街购物中心L1层	116.320971,39.687673	北京市	北京市	大兴区	31434

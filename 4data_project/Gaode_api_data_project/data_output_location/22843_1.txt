@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHQ57UE	缤谷广场2期(正门)	通行设施;建筑物门;建筑物正门	991001	天中路与天山路交叉口西100米	121.388477,31.214385	上海市	上海市	长宁区	22843
+B0FFG4JLBR	长宁图书馆(西南门)	通行设施;建筑物门;建筑物正门	991001	天山路356号	121.388583,31.214965	上海市	上海市	长宁区	22843

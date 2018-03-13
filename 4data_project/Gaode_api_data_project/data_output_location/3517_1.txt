@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFFTSQPE	万科红生活广场南区(南2门)	通行设施;建筑物门;建筑物正门	991001	布吉锦龙路89号万科红生活广场南区F1层	114.127289,22.597995	广东省	深圳市	龙岗区	3517

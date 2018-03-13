@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B02001BC5W	苏州吴中SM城市广场购物中心北区(西三门)	通行设施;建筑物门;建筑物正门	991001	吴中大道1109号苏州吴中SM城市广场购物中心北区F1层	120.593109,31.216601	江苏省	苏州市	吴中区	17941

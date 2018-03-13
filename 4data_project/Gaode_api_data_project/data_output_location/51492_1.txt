@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFF3WHJ2	乐都汇(西北门)	通行设施;建筑物门;建筑物正门	991001	张前路211号乐都汇F1层	121.520613,38.960224	辽宁省	大连市	甘井子区	51492

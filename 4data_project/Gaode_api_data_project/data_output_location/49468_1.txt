@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFG4HJ6D	建行大厦(南门)	通行设施;建筑物门;建筑物正门	991001	银城路99号浦江双辉大厦	121.509700,31.242109	上海市	上海市	浦东新区	49468

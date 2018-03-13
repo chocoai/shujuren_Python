@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHB8K09	福雷德广场(东门)	通行设施;建筑物门;建筑物正门	991001	文泽路99号福雷德广场1F层	120.347534,30.316754	浙江省	杭州市	江干区	41529

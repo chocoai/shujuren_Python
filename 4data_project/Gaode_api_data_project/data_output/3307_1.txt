@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHEZGN6	澳立信商城乐购店(西北门)	通行设施;建筑物门;建筑物正门	991001	元宝山路与黄河西路交叉口南50米	120.120460,36.016357	山东省	青岛市	黄岛区	3307

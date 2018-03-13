@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B02F50YLAX	凯德广场(东南门)	通行设施;建筑物门;建筑物正门	991001	南海大道北75号凯德广场F1层	113.140372,23.032459	广东省	佛山市	南海区	2804

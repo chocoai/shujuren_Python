@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHFHCVY	中海环宇城(西门)	通行设施;建筑物门;建筑物正门	991001	夏平西路与桂澜中路交叉口东北200米	113.156163,23.043105	广东省	佛山市	南海区	31453

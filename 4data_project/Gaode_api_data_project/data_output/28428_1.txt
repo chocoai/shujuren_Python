@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHOCM60	奉贤宝龙城市广场(东北门)	通行设施;建筑物门;建筑物正门	991001	南桥镇航南公路5639号奉贤宝龙城市广场F1层	121.463009,30.930446	上海市	上海市	奉贤区	28428

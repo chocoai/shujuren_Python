@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFI569EV	乐都汇(东北门)	通行设施;建筑物门;建筑物正门	991001	广瑞路399号乐都汇F1层	120.313956,31.588789	江苏省	无锡市	梁溪区	48289
+B0FFHN5ETZ	乐都汇购物中心(东北1门)	通行设施;建筑物门;建筑物正门	991001	广瑞路399号	120.313697,31.589140	江苏省	无锡市	梁溪区	48289

@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFH2IHTX	通程商业广场(西北二门)	通行设施;建筑物门;建筑物正门	991001	枫林一路39号通程商业广场F1层	112.952351,28.195289	湖南省	长沙市	岳麓区	57054

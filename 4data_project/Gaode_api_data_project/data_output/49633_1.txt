@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFH8PHTI	永旺(B-1入口)	通行设施;建筑物门;建筑物正门	991001	时尚东路29号永旺1F层	117.729859,39.031698	天津市	天津市	滨海新区	49633

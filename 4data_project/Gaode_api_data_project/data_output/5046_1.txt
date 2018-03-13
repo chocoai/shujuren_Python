@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFFTMUE6	五月花商务中心(北门)	通行设施;建筑物门;建筑物正门	991001	吴江路15号	121.463871,31.230766	上海市	上海市	静安区	5046

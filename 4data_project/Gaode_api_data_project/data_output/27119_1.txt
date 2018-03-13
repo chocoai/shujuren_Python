@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B001616QTA	友谊新天地广场A区(东门)	通行设施;建筑物门;建筑物正门	991001	滨江道208号友谊新天地广场A区F1层	117.199125,39.124313	天津市	天津市	和平区	27119

@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFI56F4Y	阳光新生活广场(北一门)	通行设施;建筑物门;建筑物正门	991001	花桥镇花安路99号阳光新生活广场F1层	121.151402,31.288358	江苏省	苏州市	昆山市	22485

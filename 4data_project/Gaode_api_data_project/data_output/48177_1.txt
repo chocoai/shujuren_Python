@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFI2YY1D	万达广场(西北门)	通行设施;建筑物门;建筑物正门	991001	南丰大道13号万达广场F1层	112.904421,23.178907	广东省	佛山市	三水区	48177

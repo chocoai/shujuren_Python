@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFH6S27C	广百百货新一城店(东南1门)	通行设施;建筑物门;建筑物正门	991001	宝业路2号	113.266858,23.092943	广东省	广州市	海珠区	31525

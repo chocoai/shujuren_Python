@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFH7P4UV	奥克斯广场(东北门)	通行设施;建筑物门;建筑物正门	991001	书院路126号附近	120.421386,36.156894	山东省	青岛市	李沧区	20941
+B0FFI1Q7Y8	奥克斯广场(3门)	通行设施;建筑物门;建筑物正门	991001	书院路37号奥克斯广场F1层	120.420638,36.156122	山东省	青岛市	李沧区	20941

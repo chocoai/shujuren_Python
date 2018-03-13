@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHLHNXY	万达广场(出入口)	通行设施;建筑物门;建筑物正门	991001	龙皓路1072号万达广场F1层	121.335434,30.755045	上海市	上海市	金山区	26475
+B0FFGLEIT1	万达广场金山店(1号门)	通行设施;建筑物门;建筑物正门	991001	龙皓路1088号	121.336065,30.753855	上海市	上海市	金山区	26475

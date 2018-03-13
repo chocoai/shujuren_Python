@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFINU48S	贵阳国际中心2号(西北门)	通行设施;建筑物门;建筑物正门	991001	花果园大街107号贵阳国际中心2号楼附近	106.685985,26.562635	贵州省	贵阳市	南明区	56459

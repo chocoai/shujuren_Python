@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFFF6X4H	五洋广场(东北门)	通行设施;建筑物门;建筑物正门	991001	上海东路77号五洋广场F1层	121.126029,31.450447	江苏省	苏州市	太仓市	21084

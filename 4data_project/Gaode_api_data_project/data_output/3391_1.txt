@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFG7NFI8	红星国际3号楼(南门)	通行设施;建筑物门;建筑物正门	991001	北二东路33-1号	123.382533,41.802564	辽宁省	沈阳市	铁西区	3391
+B0FFG7R9PF	红星国际4号楼(南门)	通行设施;建筑物门;建筑物正门	991001	北二东路33甲5门	123.381753,41.802933	辽宁省	沈阳市	铁西区	3391

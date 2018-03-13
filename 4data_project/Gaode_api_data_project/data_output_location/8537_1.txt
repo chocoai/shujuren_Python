@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFG4FFWE	和平商务中心北塔(西门)	通行设施;建筑物门;建筑物正门	991001	广州大道南872号	113.315146,23.086659	广东省	广州市	海珠区	8537

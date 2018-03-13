@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFH313VY	盛源生活广场(东南四门)	通行设施;建筑物门;建筑物正门	991001	柳营路777号盛源生活广场F1层	121.455428,31.263616	上海市	上海市	静安区	5569

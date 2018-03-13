@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHRQ3FY	大族广场(正门)	通行设施;建筑物门;建筑物正门	991001	[]	116.512796,39.790341	北京市	北京市	大兴区	21019

@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFG4FZC9	国盛时尚(东南门)	通行设施;建筑物门;建筑物正门	991001	中江路388弄1国盛时尚F1层	121.395711,31.224778	上海市	上海市	普陀区	9019
+B0FFHSTD67	国盛中心(正门)	通行设施;建筑物门;建筑物正门	991001	中江路附近	121.394043,31.224733	上海市	上海市	普陀区	9019

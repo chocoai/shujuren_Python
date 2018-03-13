@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGGZA57	郑州国资大厦(西门)	通行设施;建筑物门;建筑物正门	991001	安康路与嵩山南路交叉口东南100米	113.628603,34.726622	河南省	郑州市	二七区	61005

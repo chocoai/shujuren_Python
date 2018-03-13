@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGAO271	锦粮大厦(北门)	通行设施;建筑物门;建筑物正门	991001	宁国路114号附近	117.291719,31.849419	安徽省	合肥市	包河区	26405

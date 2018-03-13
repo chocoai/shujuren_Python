@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGZORQ8	恒基商城(南门)	通行设施;建筑物门;建筑物正门	991001	建国门内大街18号恒基中心B2层	116.428317,39.906344	北京市	北京市	东城区	41207
+B0FFFTKL4U	恒基商城(南2门)	通行设施;建筑物门;建筑物正门	991001	建国门内大街18号恒基商城F1层	116.428310,39.905496	北京市	北京市	东城区	41207

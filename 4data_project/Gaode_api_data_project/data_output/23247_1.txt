@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGFU497	砂之船艺术商业广场(北门)	通行设施;建筑物门;建筑物正门	991001	爱陵路与秣周东路交叉口西150米	118.829283,31.868839	江苏省	南京市	江宁区	23247

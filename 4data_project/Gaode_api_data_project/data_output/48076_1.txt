@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFH0KWPC	北京SKP(西5门)	通行设施;建筑物门;建筑物正门	991001	建国路87号北京SKP1F层	116.478444,39.909983	北京市	北京市	朝阳区	48076
+B0FFFZJTIE	蓝堡国际中心I座(北门)	通行设施;建筑物门;建筑物正门	991001	朝阳路蓝堡国际中心(北京SKP西北150米)	116.477423,39.912294	北京市	北京市	朝阳区	48076

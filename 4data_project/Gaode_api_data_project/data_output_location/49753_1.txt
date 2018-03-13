@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFFQ06WJ	星苑大厦(东门)	通行设施;建筑物门;建筑物正门	991001	韶山中路440号	112.993920,28.158699	湖南省	长沙市	雨花区	49753
+B0FFFQ06VO	万博汇商务公馆(北门)	通行设施;建筑物门;建筑物正门	991001	韶山中路485号附近	112.995929,28.157709	湖南省	长沙市	雨花区	49753

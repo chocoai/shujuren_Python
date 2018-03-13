@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFFTMOH1	金虹桥国际中心Ⅰ座(东南门)	通行设施;建筑物门;建筑物正门	991001	娄山关路523号	121.403296,31.208689	上海市	上海市	长宁区	21727
+B0FFGJPOG9	金虹桥国际中心Ⅱ座(东南门)	通行设施;建筑物门;建筑物正门	991001	娄山关路533号	121.403265,31.208970	上海市	上海市	长宁区	21727

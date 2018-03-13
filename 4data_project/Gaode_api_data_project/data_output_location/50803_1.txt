@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGXGUTL	vanke2049海上传奇(西南门)	通行设施;建筑物门;建筑物正门	991001	御桥路1949号vanke2049海上传奇F1层	121.571775,31.158866	上海市	上海市	浦东新区	50803

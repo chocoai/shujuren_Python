@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFG4ZWQE	正翔商业广场(北门)	通行设施;建筑物门;建筑物正门	991001	松陵镇江兴西路469号正翔商业广场F1层	120.640635,31.169452	江苏省	苏州市	吴江区	9329

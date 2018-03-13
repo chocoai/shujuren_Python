@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFG3EJHM	丽达奥特莱斯(西门)	通行设施;建筑物门;建筑物正门	991001	中山路149号丽达奥特莱斯F1层	120.318742,36.071527	山东省	青岛市	市北区	61606
+B0FFI0TKTM	盛文奥特莱斯(东门)	通行设施;建筑物门;建筑物正门	991001	黑龙江中路228号附近	120.426989,36.245091	山东省	青岛市	城阳区	61606

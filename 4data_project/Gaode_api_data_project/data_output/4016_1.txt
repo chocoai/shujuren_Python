@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B00181A120	天润广场(北门)	通行设施;建筑物门;建筑物正门	991001	大什字街与津桥路交叉口西南100米	123.467486,41.804586	辽宁省	沈阳市	大东区	4016

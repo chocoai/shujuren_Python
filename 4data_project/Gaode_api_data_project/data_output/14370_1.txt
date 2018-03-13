@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHLGZMQ	五洲国际广场(出入口)	通行设施;建筑物门;建筑物正门	991001	钟秀中路98号五洲国际广场F1层	120.864734,32.032698	江苏省	南通市	崇川区	14370

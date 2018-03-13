@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHVUQ42	东方商厦青浦店(西北门)	通行设施;建筑物门;建筑物正门	991001	公园路700号东方商厦F1层	121.112008,31.148434	上海市	上海市	青浦区	31572

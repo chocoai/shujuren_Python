@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHOSHSW	吾悦广场(东门)	通行设施;建筑物门;建筑物正门	991001	淀山湖大道218号吾悦广场F1层	121.096434,31.144574	上海市	上海市	青浦区	16516

@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFG4J5V4	普济医院旧址(东南门)	通行设施;建筑物门;建筑物正门	991001	胶州路1号	120.327918,36.073230	山东省	青岛市	市北区	48335

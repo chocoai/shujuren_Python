@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFI2Z1O0	旭辉Mall(西门)	通行设施;建筑物门;建筑物正门	991001	控江路2068号旭辉MallF1层	121.509010,31.273291	上海市	上海市	杨浦区	49248

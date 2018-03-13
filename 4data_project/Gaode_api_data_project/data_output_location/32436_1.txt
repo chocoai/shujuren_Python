@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFF2HR8X	湖北路85号综合办公楼(东门)	通行设施;建筑物门;建筑物正门	991001	湖北路85号	118.776544,32.068397	江苏省	南京市	鼓楼区	32436

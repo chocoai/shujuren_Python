@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGFQOXD	东西湖区展览馆(北门)	通行设施;建筑物门;建筑物正门	991001	五环大道65之附19附20	114.137343,30.623452	湖北省	武汉市	东西湖区	56201

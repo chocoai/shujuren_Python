@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGGZA36	环球城(南门)	通行设施;建筑物门;建筑物正门	991001	云鹿路87号附近	118.619834,24.884881	福建省	泉州市	丰泽区	27025
+B0FFGGZH6T	国贸商城A区写字楼(西北门)	通行设施;建筑物门;建筑物正门	991001	妙灵路212号附近	118.619277,24.885667	福建省	泉州市	丰泽区	27025

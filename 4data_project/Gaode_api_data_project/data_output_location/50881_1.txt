@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGPMJ6U	百联奥特莱斯广场北区(西南二门)	通行设施;建筑物门;建筑物正门	991001	启潮路199号百联奥特莱斯广场北区F1层	120.382773,30.344049	浙江省	嘉兴市	海宁市	50881

@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHLH0I7	碧桂园银河商业广场(东北门)	通行设施;建筑物门;建筑物正门	991001	汪河路99号碧桂园银河商业广场F1层	123.346055,41.751220	辽宁省	沈阳市	于洪区	18980

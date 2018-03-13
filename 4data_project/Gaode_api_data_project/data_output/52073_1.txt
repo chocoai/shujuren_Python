@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHEJYA6	美联时尚购物中心(南二门)	通行设施;建筑物门;建筑物正门	991001	长乐西路41号美联时尚购物中心F1层	108.993747,34.269801	陕西省	西安市	新城区	52073

@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFG2P4CV	Forum66市府恒隆广场(北门)	通行设施;建筑物门;建筑物正门	991001	青年大街1号Forum66市府恒隆广场L1层	123.434058,41.802361	辽宁省	沈阳市	沈河区	48381

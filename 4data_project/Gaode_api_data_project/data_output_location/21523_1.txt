@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGPMJ3A	光谷国际广场(南2门)	通行设施;建筑物门;建筑物正门	991001	东湖开发区珞瑜路889号(光谷转盘旁)光谷国际广场1F层	114.397268,30.507513	湖北省	武汉市	洪山区	21523

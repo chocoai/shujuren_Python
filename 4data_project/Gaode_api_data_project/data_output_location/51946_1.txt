@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFFRHF7A	东方威尼斯(南1门)	通行设施;建筑物门;建筑物正门	991001	江头北路132号	118.132407,24.496513	福建省	厦门市	湖里区	51946

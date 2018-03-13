@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFI2YLB4	加侨国际广场1号楼(东北门)	通行设施;建筑物门;建筑物正门	991001	东二环路与包河大道交叉口西南角加侨国际广场1号楼F1层	117.301747,31.815591	安徽省	合肥市	包河区	20882

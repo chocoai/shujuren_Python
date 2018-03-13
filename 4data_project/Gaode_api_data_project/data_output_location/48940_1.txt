@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHLHH49	万达广场(出入口)	通行设施;建筑物门;建筑物正门	991001	吴韵路321号万达广场F1层	120.300278,31.674621	江苏省	无锡市	惠山区	48940
+B0FFFV3HN2	万达广场惠山店(东北门)	通行设施;建筑物门;建筑物正门	991001	吴韵路321号	120.300492,31.676149	江苏省	无锡市	惠山区	48940

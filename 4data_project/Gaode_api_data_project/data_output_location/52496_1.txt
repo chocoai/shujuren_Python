@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFFZB9HY	上景一号(东门)	通行设施;建筑物门;建筑物正门	991001	观景路129号	103.633318,30.989713	四川省	成都市	都江堰市	52496

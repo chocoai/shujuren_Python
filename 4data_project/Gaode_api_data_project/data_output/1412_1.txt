@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFG40EEB	奥园广场(南门)	通行设施;建筑物门;建筑物正门	991001	桥南街福德路281号奥园广场1F层	113.357712,22.924019	广东省	广州市	番禺区	1412

@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFFRCQP2	乐都汇(东门)	通行设施;建筑物门;建筑物正门	991001	七星西路西50米	118.095957,24.486602	福建省	厦门市	思明区	48351
+B02500TO2T	乐都汇(2号门)	通行设施;建筑物门;建筑物正门	991001	七星西路3号乐都汇F1层	118.096030,24.485957	福建省	厦门市	思明区	48351

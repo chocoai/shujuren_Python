@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFFVTYYB	万象城(东南门1)	通行设施;建筑物门;建筑物正门	991001	民主路10号万象城L1层	113.662948,34.754211	河南省	郑州市	二七区	8244
+B0FFG0T2F8	华润大厦(东北门)	通行设施;建筑物门;建筑物正门	991001	华润·万象城华润大厦北门	113.660854,34.755639	河南省	郑州市	二七区	8244

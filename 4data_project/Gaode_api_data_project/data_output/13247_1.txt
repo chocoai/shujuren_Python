@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHENG9A	万和城购物中心(南门)	通行设施;建筑物门;建筑物正门	991001	长缨西路1号万和城购物中心F1	108.994678,34.278018	陕西省	西安市	新城区	13247
+B0FFH2IJVU	万和城购物中心(东门)	通行设施;建筑物门;建筑物正门	991001	长缨西路1号万和城购物中心F1	108.995257,34.278960	陕西省	西安市	新城区	13247

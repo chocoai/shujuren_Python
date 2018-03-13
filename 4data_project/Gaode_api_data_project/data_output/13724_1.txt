@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B02F50X66S	顺联国际桂城店(西北门)	通行设施;建筑物门;建筑物正门	991001	桂城桂平西路2号顺联国际F1层	113.156045,23.032602	广东省	佛山市	南海区	13724

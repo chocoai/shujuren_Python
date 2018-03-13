@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHGKAGP	大观·天地Mall(西二门)	通行设施;建筑物门;建筑物正门	991001	建宁路300号大观·天地MallF1层	118.743043,32.092400	江苏省	南京市	鼓楼区	40487
+B001914LT0	大观·天地Mall(西七门)	通行设施;建筑物门;建筑物正门	991001	建宁路300号大观天地3楼CY3-9号大观·天地MALL1层(热河路口)	118.743092,32.093015	江苏省	南京市	鼓楼区	40487

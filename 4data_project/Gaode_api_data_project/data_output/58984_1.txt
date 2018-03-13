@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFG0U85Z	维佳·佰港城(3号门)	通行设施;建筑物门;建筑物正门	991001	文治街与丁字桥南路交叉口维佳·佰港城F1层	114.325987,30.503197	湖北省	武汉市	洪山区	58984

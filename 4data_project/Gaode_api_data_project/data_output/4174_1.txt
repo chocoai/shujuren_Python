@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B03018LGSW	天虹商场(西门)	通行设施;建筑物门;建筑物正门	991001	虎门镇连升中路地标广场(不夜天对面)天虹商场F1层	113.686939,22.809396	广东省	东莞市	东莞市	4174

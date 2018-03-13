@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHOSOG3	新荟城(南门)	通行设施;建筑物门;建筑物正门	991001	望京东园1区120号新荟城1层	116.482055,39.998356	北京市	北京市	朝阳区	27133
+B0FFFTM6GQ	融科望京中心B座(西南门)	通行设施;建筑物门;建筑物正门	991001	望京东园523号融科望京中心	116.483036,39.997586	北京市	北京市	朝阳区	27133

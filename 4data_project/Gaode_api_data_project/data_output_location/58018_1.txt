@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGZTTLY	星海假日酒店(正门)	通行设施;建筑物门;建筑物正门	991001	星海广场C1区32号	121.573838,38.879658	辽宁省	大连市	沙河口区	58018

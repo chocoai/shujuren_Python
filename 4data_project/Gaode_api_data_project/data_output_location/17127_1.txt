@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHFBZII	置信·逸都城(1号门)	通行设施;建筑物门;建筑物正门	991001	金彭东路122号置信·逸都城F1层	103.957965,30.987665	四川省	成都市	彭州市	17127

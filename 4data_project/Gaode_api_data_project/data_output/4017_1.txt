@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHCZJM9	嘉杰国际广场(东南门)	通行设施;建筑物门;建筑物正门	991001	四川北路1727弄嘉杰国际广场F1层	121.482645,31.257963	上海市	上海市	虹口区	4017

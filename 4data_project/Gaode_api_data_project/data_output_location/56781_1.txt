@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFFZJM7U	上海迪美购物中心(北门)	通行设施;建筑物门;建筑物正门	991001	人民大道221号	121.473356,31.228640	上海市	上海市	黄浦区	56781
+B0FFG1LYY9	上海大剧院(南门)	通行设施;建筑物门;建筑物正门	991001	人民大道300号	121.472277,31.229189	上海市	上海市	黄浦区	56781

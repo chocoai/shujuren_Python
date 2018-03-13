@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFG4BP0R	万达广场(1号门)	通行设施;建筑物门;建筑物正门	991001	唐家墩路5号万达广场1F层	114.267696,30.609562	湖北省	武汉市	江汉区	2275

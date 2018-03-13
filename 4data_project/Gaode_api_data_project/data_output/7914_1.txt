@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFFTQGNZ	星港城购物中心(南门)	通行设施;建筑物门;建筑物正门	991001	松白路7038星港城购物中心1层	113.848376,22.769717	广东省	深圳市	宝安区	7914

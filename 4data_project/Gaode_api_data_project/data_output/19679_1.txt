@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFH2JOZL	宏毅百汇广场(3号门)	通行设施;建筑物门;建筑物正门	991001	惠崇公路与324国道复线交叉口东150米	118.794319,25.009480	福建省	泉州市	惠安县	19679

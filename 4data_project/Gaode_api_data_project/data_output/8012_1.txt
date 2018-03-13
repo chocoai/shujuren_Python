@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFFTVED4	凯德广场(南门)	通行设施;建筑物门;建筑物正门	991001	鸿福路90号凯德广场F1层	113.745097,23.014282	广东省	东莞市	东莞市	8012

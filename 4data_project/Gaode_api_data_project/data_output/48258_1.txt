@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHOSIYM	金鹰国际购物中心(西北门)	通行设施;建筑物门;建筑物正门	991001	珠江中路199号金鹰国际购物中心F1层	120.972547,31.376239	江苏省	苏州市	昆山市	48258

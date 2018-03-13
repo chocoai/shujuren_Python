@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFH7P07F	利群赵哥庄购物广场(南门)	通行设施;建筑物门;建筑物正门	991001	夏塔路889号附近	120.416218,36.256227	山东省	青岛市	城阳区	48336

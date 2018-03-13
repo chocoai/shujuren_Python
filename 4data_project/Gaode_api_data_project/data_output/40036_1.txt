@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFH7308N	海信广场(B5门)	通行设施;建筑物门;建筑物正门	991001	东海西路50号附近	120.396133,36.061100	山东省	青岛市	市南区	40036
+B0FFH28CDG	海信广场二期(C1)	通行设施;建筑物门;建筑物正门	991001	澳门路117号海信广场二期F1层	120.396716,36.059330	山东省	青岛市	市南区	40036

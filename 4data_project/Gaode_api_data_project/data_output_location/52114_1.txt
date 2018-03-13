@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGSLIQJ	乐都汇(东南门)	通行设施;建筑物门;建筑物正门	991001	青威路与正阳中路交叉口西北100米	120.414382,36.306064	山东省	青岛市	城阳区	52114
+B0FFG40IAV	溢德鑫贵爵广场(南门)	通行设施;建筑物门;建筑物正门	991001	正阳路159号	120.413261,36.306068	山东省	青岛市	城阳区	52114

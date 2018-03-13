@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHOCNHS	大融城(西南门)	通行设施;建筑物门;建筑物正门	991001	宝安公路3386号大融城F1层	121.278758,31.330023	上海市	上海市	嘉定区	31382

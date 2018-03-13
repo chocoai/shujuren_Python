@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHSJ991	水牛城·名品折扣店(北门)	通行设施;建筑物门;建筑物正门	991001	南马路91号附近	117.183961,39.136804	天津市	天津市	和平区	60731

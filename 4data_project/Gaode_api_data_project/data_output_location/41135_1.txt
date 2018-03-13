@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFG0UVA0	新成文化大厦B座(西门)	通行设施;建筑物门;建筑物正门	991001	珊瑚南巷与香串胡同交叉口东50米	116.418008,39.893884	北京市	北京市	东城区	41135
+B0FFG0V2CZ	新阳商务楼C座(南门)	通行设施;建筑物门;建筑物正门	991001	珠市口东大街1-1号	116.417533,39.893633	北京市	北京市	东城区	41135

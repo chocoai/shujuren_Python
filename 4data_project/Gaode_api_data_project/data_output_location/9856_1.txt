@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFI55OC0	新洲摩尔城(南门)	通行设施;建筑物门;建筑物正门	991001	衡州大街100号新洲摩尔城F1层	114.801604,30.833510	湖北省	武汉市	新洲区	9856

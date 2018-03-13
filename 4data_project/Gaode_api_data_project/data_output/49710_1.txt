@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHHTPQB	伟龙广场B幢(南1门)	通行设施;建筑物门;建筑物正门	991001	苑东巷2号附近	102.731034,25.069773	云南省	昆明市	盘龙区	49710

@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHITIWR	百联北上海购物中心(出入口)	通行设施;建筑物门;建筑物正门	991001	蕴川路1555号百联北上海购物中心1F层	121.433973,31.366549	上海市	上海市	宝山区	31631

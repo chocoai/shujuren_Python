@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHS8VBQ	八佰伴(西北门)	通行设施;建筑物门;建筑物正门	991001	人民中路47号八佰伴F1层	120.865465,32.017000	江苏省	南通市	崇川区	25854

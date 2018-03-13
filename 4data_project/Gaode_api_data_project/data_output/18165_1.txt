@@ -1,0 +1,4 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHERXM4	星河COCO City民治店(西南门)	通行设施;建筑物门;建筑物正门	991001	梅龙大道2号附近	114.046225,22.602629	广东省	深圳市	龙华区	18165
+B02F38NHG2	星河COCO Park(北门)	通行设施;建筑物门;建筑物正门	991001	民田路与福华路交叉口东南100米	114.053462,22.534337	广东省	深圳市	福田区	18165
+B0FFG376AW	COCO Park(东南门)	通行设施;建筑物门;建筑物正门	991001	爱南路666号COCO ParkF1层	114.228805,22.690792	广东省	深圳市	龙岗区	18165

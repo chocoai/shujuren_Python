@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHJDKXT	星力·银海元隆广场(出入口)	通行设施;建筑物门;建筑物正门	991001	北京路203号星力·银海元隆广场1F层	106.703094,26.591718	贵州省	贵阳市	云岩区	48553

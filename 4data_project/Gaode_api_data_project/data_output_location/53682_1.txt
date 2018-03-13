@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFH1BDOX	东建大厦(东南门)	通行设施;建筑物门;建筑物正门	991001	汾江中路121	113.107941,23.027371	广东省	佛山市	禅城区	53682

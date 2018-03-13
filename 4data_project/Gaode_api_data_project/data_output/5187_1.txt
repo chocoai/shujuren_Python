@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFG1THC4	泰禾广场东二环店(南门)	通行设施;建筑物门;建筑物正门	991001	秀峰路188号泰禾广场F1层	119.325301,26.139224	福建省	福州市	晋安区	5187

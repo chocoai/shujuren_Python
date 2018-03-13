@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGPK08U	优族联盟(东南门)	通行设施;建筑物门;建筑物正门	991001	人民中路88号	120.304576,31.577745	江苏省	无锡市	梁溪区	26319

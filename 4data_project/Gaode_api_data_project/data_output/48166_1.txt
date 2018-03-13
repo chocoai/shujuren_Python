@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFH4TW3Z	凯德广场(西北门)	通行设施;建筑物门;建筑物正门	991001	韶山中路421号凯德广场F1层	112.994961,28.154698	湖南省	长沙市	雨花区	48166

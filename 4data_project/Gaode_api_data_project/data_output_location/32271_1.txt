@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B000AA1P2E	蓝色港湾购物中心北区(南3门)	通行设施;建筑物门;建筑物正门	991001	复兴路69号蓝色港湾购物中心北区F1层	116.277851,39.913040	北京市	北京市	海淀区	32271

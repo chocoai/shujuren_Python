@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFG1X0FG	中国人民银行武汉分行(正门)	通行设施;建筑物门;建筑物正门	991001	中南路69号	114.335368,30.542963	湖北省	武汉市	武昌区	28263

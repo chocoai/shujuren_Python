@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGZWRNO	杭州五常西溪软件园A座(北门)	通行设施;建筑物门;建筑物正门	991001	五常大道168号	120.031586,30.244594	浙江省	杭州市	余杭区	54469

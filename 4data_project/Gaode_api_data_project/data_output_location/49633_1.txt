@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFH99THK	北辰区青少年宫(西南门)	通行设施;建筑物门;建筑物正门	991001	果园东路165号附近	117.135556,39.223878	天津市	天津市	北辰区	49633

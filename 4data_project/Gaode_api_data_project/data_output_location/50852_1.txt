@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFFZBRFV	成都宏明电子实业总公司医院(西北门)	通行设施;建筑物门;建筑物正门	991001	建设路71号附1号	104.098631,30.667549	四川省	成都市	成华区	50852

@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGFB0GG	浅水湾1600恺悦大厦(西南门)	通行设施;建筑物门;建筑物正门	991001	江宁路1600号	121.440091,31.248250	上海市	上海市	普陀区	28908

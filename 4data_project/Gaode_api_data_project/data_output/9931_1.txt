@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHNTR3D	来福士广场(西南门)	通行设施;建筑物门;建筑物正门	991001	大庆南路99号宁波来福士广场F1层	121.557149,29.881728	浙江省	宁波市	江北区	9931

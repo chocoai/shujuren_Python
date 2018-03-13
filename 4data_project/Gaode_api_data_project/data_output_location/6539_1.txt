@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGZG3E0	乐活购物中心(西北门)	通行设施;建筑物门;建筑物正门	991001	武里山路与物流大道交叉口东北150米	117.321177,31.902764	安徽省	合肥市	瑶海区	6539

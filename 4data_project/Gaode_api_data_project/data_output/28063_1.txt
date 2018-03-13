@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHF5ALM	凯德Mall新都中心(西北1门)	通行设施;建筑物门;建筑物正门	991001	台柳路195-21号附近	120.395080,36.113254	山东省	青岛市	市北区	28063

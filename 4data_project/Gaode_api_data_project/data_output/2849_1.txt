@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHGKH9V	港汇恒隆广场(正门)	通行设施;建筑物门;建筑物正门	991001	华山路与肇嘉浜路交叉口西北100米	121.437990,31.194172	上海市	上海市	徐汇区	2849
+B0FFGPMJ1A	港汇恒隆广场(北一门)	通行设施;建筑物门;建筑物正门	991001	虹桥路1号港汇恒隆广场1F层	121.436984,31.195396	上海市	上海市	徐汇区	2849

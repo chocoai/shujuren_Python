@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHS2EME	青云里满庭芳园D座(正门)	通行设施;建筑物门;建筑物正门	991001	北三环西路b座附近	116.331448,39.968772	北京市	北京市	海淀区	58703

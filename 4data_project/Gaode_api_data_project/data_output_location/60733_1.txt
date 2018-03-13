@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B001611ONO	银都大厦A座(西门)	通行设施;建筑物门;建筑物正门	991001	友谊北路65号	117.204374,39.102909	天津市	天津市	河西区	60733

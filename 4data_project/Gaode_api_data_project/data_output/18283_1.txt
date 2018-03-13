@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGB6Z98	东方茂A(1号门)	通行设施;建筑物门;建筑物正门	991001	金桥北路1号东方茂购物中心F1层	119.933481,30.048424	浙江省	杭州市	富阳区	18283
+B0FFGPMEU4	东方茂购物中心(B1门1)	通行设施;建筑物门;建筑物正门	991001	金桥北路1号东方茂购物中心F1层	119.931756,30.048179	浙江省	杭州市	富阳区	18283

@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFIAD8U7	新城吾悦广场C座(东门)	通行设施;建筑物门;建筑物正门	991001	金港大道482号附近	120.544670,31.838016	江苏省	苏州市	张家港市	22759

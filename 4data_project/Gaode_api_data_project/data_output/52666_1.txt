@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFH1BEP0	永旺黄岛购物中心(南门)	通行设施;建筑物门;建筑物正门	991001	长江中路419号永旺黄岛购物中心F1层	120.187910,35.954962	山东省	青岛市	黄岛区	52666

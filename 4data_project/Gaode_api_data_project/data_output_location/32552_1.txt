@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFH70TLT	中泽购物广场(北门)	通行设施;建筑物门;建筑物正门	991001	黄河中路190号附近	120.148498,36.019218	山东省	青岛市	黄岛区	32552

@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHPZ6F5	大润发商贸城A座(正门)	通行设施;建筑物门;建筑物正门	991001	秋月路9号附近	119.940910,30.051558	浙江省	杭州市	富阳区	54335
+B0FFG0V1MT	大润发商贸城B座(东门)	通行设施;建筑物门;建筑物正门	991001	秋月路131	119.940944,30.052178	浙江省	杭州市	富阳区	54335

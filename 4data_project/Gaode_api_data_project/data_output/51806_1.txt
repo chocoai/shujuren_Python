@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGILL1P	维多利广场B座(北门)	通行设施;建筑物门;建筑物正门	991001	体育西路101-103号维多利广场	113.320554,23.135153	广东省	广州市	天河区	51806
+B0FFGILLIY	维多利广场写字楼A座(东门)	通行设施;建筑物门;建筑物正门	991001	体育西路103号	113.321326,23.135051	广东省	广州市	天河区	51806

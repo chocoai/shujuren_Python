@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFICV5SY	慈溪市第三人民医院织物中心(东门)	通行设施;建筑物门;建筑物正门	991001	北二环东路233号附近	121.131740,30.188715	浙江省	宁波市	慈溪市	59510

@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHG0GF2	COSMO财富中心盐市口(西门)	通行设施;建筑物门;建筑物正门	991001	大业路6号COSMO财富中心(盐市口)F1层	104.069484,30.652696	四川省	成都市	锦江区	27415

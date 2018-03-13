@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFH6INTW	维湾广场(东北门)	通行设施;建筑物门;建筑物正门	991001	长江东路75-77号附近	121.668589,38.923605	辽宁省	大连市	中山区	15412

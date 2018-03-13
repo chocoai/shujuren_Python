@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHH37H9	明丰百货(西北门)	通行设施;建筑物门;建筑物正门	991001	厚街镇康乐南路23号明丰百货F1层	113.662289,22.927581	广东省	东莞市	东莞市	51625

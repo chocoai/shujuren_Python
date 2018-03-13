@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFFPD1ZK	世博大厦J座(东北门)	通行设施;建筑物门;建筑物正门	991001	东城中路283号附近	113.779056,23.033012	广东省	东莞市	东莞市	55123
+B0FFHLHXEY	万达广场(出入口)	通行设施;建筑物门;建筑物正门	991001	东纵路208号万达广场F1层	113.779687,23.034820	广东省	东莞市	东莞市	55123

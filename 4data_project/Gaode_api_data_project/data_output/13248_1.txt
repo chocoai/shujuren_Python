@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGIDBNJ	日月光中心广场(南二门)	通行设施;建筑物门;建筑物正门	991001	民权路89号日月光中心广场F1层	106.572126,29.553939	重庆市	重庆市	渝中区	13248
+B0FFFRK7J2	日月光中心广场(南门)	通行设施;建筑物门;建筑物正门	991001	和平路134号附近	106.571840,29.553799	重庆市	重庆市	渝中区	13248

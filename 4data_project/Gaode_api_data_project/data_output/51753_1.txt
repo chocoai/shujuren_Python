@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHLHJ95	万达广场(出入口)	通行设施;建筑物门;建筑物正门	991001	增城大道69号万达广场F1层	113.816026,23.275086	广东省	广州市	增城区	51753

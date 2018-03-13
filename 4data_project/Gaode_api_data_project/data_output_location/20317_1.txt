@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGI1UCC	乐宁会购物广场(北2门)	通行设施;建筑物门;建筑物正门	991001	咸宁中路122号附近	109.001986,34.250755	陕西省	西安市	碑林区	20317

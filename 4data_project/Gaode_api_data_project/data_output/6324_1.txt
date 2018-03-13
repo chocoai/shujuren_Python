@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFH13EWH	合生·麒麟新天地(东北门)	通行设施;建筑物门;建筑物正门	991001	阜通西大街11号合生·麒麟新天地1F层	116.477908,39.997308	北京市	北京市	朝阳区	6324

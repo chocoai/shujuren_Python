@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGQ4GDB	东鼎购物中心(东北门)	通行设施;建筑物门;建筑物正门	991001	新松江路1255弄1-10号东鼎购物中心F1层	121.211631,31.038336	上海市	上海市	松江区	51646

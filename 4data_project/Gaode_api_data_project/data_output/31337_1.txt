@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGRHIQO	雅居乐中心(西门)	通行设施;建筑物门;建筑物正门	991001	珠江新城华夏路26号雅居乐中心广州雅居乐中心F1层	113.321736,23.124207	广东省	广州市	天河区	31337
+B0FFFZV17C	鸿禧优活中心(东门)	通行设施;建筑物门;建筑物正门	991001	光明北路281号	113.361543,22.952197	广东省	广州市	番禺区	31337

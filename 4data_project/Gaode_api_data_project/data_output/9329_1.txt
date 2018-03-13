@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGJPQHU	万宝财富商业广场(1号门)	通行设施;建筑物门;建筑物正门	991001	中山南路1088号万宝财富商业广场F1层	120.644582,31.131148	江苏省	苏州市	吴江区	9329

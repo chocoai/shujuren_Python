@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFFR79CR	百花广场(西北门)	通行设施;建筑物门;建筑物正门	991001	祖庙路33号百花广场F1层	113.111501,23.026769	广东省	佛山市	禅城区	15133

@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHMGS4I	杉井奥特莱斯广场(南门)	通行设施;建筑物门;建筑物正门	991001	秋实路555号杉井奥特莱斯广场F1层	121.450614,29.857359	浙江省	宁波市	海曙区	43055

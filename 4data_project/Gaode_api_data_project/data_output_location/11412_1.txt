@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHLHAUJ	和信广场(出入口)	通行设施;建筑物门;建筑物正门	991001	博爱中路61号和信广场F1层	113.004831,23.121728	广东省	佛山市	南海区	11412

@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHF6MM2	ifc国金天地(西门)	通行设施;建筑物门;建筑物正门	991001	花城大道30号附近	113.322453,23.118513	广东省	广州市	天河区	28349

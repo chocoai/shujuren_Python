@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGPMJ78	万达广场(2号门)	通行设施;建筑物门;建筑物正门	991001	营盘西街17号万达广场1层	123.457990,41.735524	辽宁省	沈阳市	浑南区	27221
+B0FFGPMIZR	万达广场(1号门)	通行设施;建筑物门;建筑物正门	991001	营盘西街17号万达广场1F层	123.460975,41.735556	辽宁省	沈阳市	浑南区	27221

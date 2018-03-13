@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFG4FCQ4	囍庆城(南门)	通行设施;建筑物门;建筑物正门	991001	江海大道390号附近	120.859222,32.044143	江苏省	南通市	港闸区	26010
+B0FFG4JRDY	美丽华红木大世界(北门)	通行设施;建筑物门;建筑物正门	991001	江海大道高架516号附近	120.858559,32.044830	江苏省	南通市	港闸区	26010

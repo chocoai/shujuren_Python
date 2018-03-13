@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFH1DWZW	优越时代广场(东南门)	通行设施;建筑物门;建筑物正门	991001	民塘路与玉龙路交叉口西南150米	114.032766,22.609080	广东省	深圳市	龙华区	17716

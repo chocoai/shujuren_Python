@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFFVO7UD	金果园D2商务楼(东门)	通行设施;建筑物门;建筑物正门	991001	科园三路106号	106.490901,29.528674	重庆市	重庆市	九龙坡区	49634
+B0FFFVOACJ	金果园D1商务楼(东门)	通行设施;建筑物门;建筑物正门	991001	科园三路68号	106.490884,29.529540	重庆市	重庆市	九龙坡区	49634

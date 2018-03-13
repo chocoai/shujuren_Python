@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGSMC9Q	海航购物中心(西北门)	通行设施;建筑物门;建筑物正门	991001	延安三路234号附近	120.375160,36.060905	山东省	青岛市	市南区	15324
+B0FFH71E3E	海航万邦中心(西北门)	通行设施;建筑物门;建筑物正门	991001	香港中路234号附近	120.375579,36.061374	山东省	青岛市	市南区	15324

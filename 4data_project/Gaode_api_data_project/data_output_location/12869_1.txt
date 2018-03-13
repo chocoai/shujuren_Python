@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGY0MA7	西子国际·办公楼A座(东门)	通行设施;建筑物门;建筑物正门	991001	景昙路19号附近	120.203506,30.258656	浙江省	杭州市	江干区	12869
+B0FFHIFT7J	欧亚达家居(出入口)	通行设施;建筑物门;建筑物正门	991001	秋涛北路72号欧亚达家居1F层	120.203003,30.259776	浙江省	杭州市	江干区	12869

@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHQJPV3	义蓬购物中心写字楼(正门)	通行设施;建筑物门;建筑物正门	991001	义蓬中路535号附近	120.490823,30.271773	浙江省	杭州市	萧山区	9708
+B0FFHPUL8H	义蓬购物中心(南门)	通行设施;建筑物门;建筑物正门	991001	义蓬中路501号义蓬购物中心1F层	120.490671,30.270852	浙江省	杭州市	萧山区	9708

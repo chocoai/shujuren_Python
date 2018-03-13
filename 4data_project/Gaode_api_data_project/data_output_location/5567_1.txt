@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFH89Z5G	佳亿广场(东1门)	通行设施;建筑物门;建筑物正门	991001	新源南路甲3号附近	116.458749,39.949964	北京市	北京市	朝阳区	5567

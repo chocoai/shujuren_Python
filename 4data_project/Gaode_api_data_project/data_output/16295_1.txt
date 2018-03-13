@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFH1UVO0	号外时尚馆(北门)	通行设施;建筑物门;建筑物正门	991001	南京路199号号外时尚馆B1层	117.196862,39.118447	天津市	天津市	和平区	16295
+B0FFGIGUFO	号外时尚馆(东北门)	通行设施;建筑物门;建筑物正门	991001	南京路207号	117.196863,39.118589	天津市	天津市	和平区	16295

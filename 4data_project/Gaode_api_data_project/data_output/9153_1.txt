@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHLHT6S	万达广场(出入口)	通行设施;建筑物门;建筑物正门	991001	世纪大道888号万达广场1层	118.574190,24.819567	福建省	泉州市	晋江市	9153
+B0FFHLHT71	万达广场广场(出入口)	通行设施;建筑物门;建筑物正门	991001	世纪大道888号万达广场F1层	118.573708,24.819573	福建省	泉州市	晋江市	9153

@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGFVEZT	泰百购物中心(西南门)	通行设施;建筑物门;建筑物正门	991001	大桥北路20号	118.732080,32.127260	江苏省	南京市	浦口区	48680
+B0FFH95APH	泰百时尚购物中心(东南门)	通行设施;建筑物门;建筑物正门	991001	大桥北路与江山路交叉口东150米	118.733306,32.127611	江苏省	南京市	浦口区	48680

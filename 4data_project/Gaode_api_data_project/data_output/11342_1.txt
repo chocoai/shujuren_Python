@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHG04LP	汇一城购物中心(A区2号门)	通行设施;建筑物门;建筑物正门	991001	鸿福路200号汇一城购物中心F1层	113.754758,23.008132	广东省	东莞市	东莞市	11342

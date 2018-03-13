@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFH07BFW	安粮国贸购物中心(东门)	通行设施;建筑物门;建筑物正门	991001	金寨南路811号安粮国贸购物中心F1层	117.255033,31.817971	安徽省	合肥市	蜀山区	23248

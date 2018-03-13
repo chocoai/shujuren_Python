@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFF2QADO	颐高莱迪时尚广场(东南门)	通行设施;建筑物门;建筑物正门	991001	药行街157附近	121.552175,29.867106	浙江省	宁波市	海曙区	23650
+B0FFHIT3CD	颐高莱迪时尚广场(出入口)	通行设施;建筑物门;建筑物正门	991001	药行街169号颐高莱迪时尚广场1F层	121.551772,29.866909	浙江省	宁波市	海曙区	23650

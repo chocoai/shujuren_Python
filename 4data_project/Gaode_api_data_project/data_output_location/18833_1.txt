@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFH1D8MD	恒隆广场(西北1门)	通行设施;建筑物门;建筑物正门	991001	五四路86号附近	121.608695,38.907799	辽宁省	大连市	西岗区	18833

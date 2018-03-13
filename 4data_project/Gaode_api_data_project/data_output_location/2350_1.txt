@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFFWHQF5	南通奥特莱斯购物广场(西1门)	通行设施;建筑物门;建筑物正门	991001	濠西路289-299号南通奥特莱斯购物广场1F层	120.854512,32.040699	江苏省	南通市	港闸区	2350

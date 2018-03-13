@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFH8ZTS6	荣群大厦(西北门)	通行设施;建筑物门;建筑物正门	991001	龙岗大道龙岗段5018号	114.265799,22.721443	广东省	深圳市	龙岗区	24993
+B0FFGCEI9R	佰好大厦商务中心(西南门)	通行设施;建筑物门;建筑物正门	991001	南联路10号	114.264042,22.722118	广东省	深圳市	龙岗区	24993

@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHIG3MM	金地广场(出入口)	通行设施;建筑物门;建筑物正门	991001	曲江池东路999号金地广场1F层	108.988149,34.202569	陕西省	西安市	雁塔区	19397

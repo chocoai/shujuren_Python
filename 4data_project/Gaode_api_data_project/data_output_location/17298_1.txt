@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFI55XX7	中楠都汇广场(南二门)	通行设施;建筑物门;建筑物正门	991001	长江北路与萧林东路交汇处中楠都汇广场F1层	120.979482,31.402776	江苏省	苏州市	昆山市	17298

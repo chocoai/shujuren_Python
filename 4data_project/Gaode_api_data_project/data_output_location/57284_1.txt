@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFI2ZAQI	万达广场(西一门)	通行设施;建筑物门;建筑物正门	991001	连升北路388号万达广场F1层	113.683278,22.833340	广东省	东莞市	东莞市	57284

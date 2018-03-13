@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFFXN8SZ	金门国际商业广场(南一门)	通行设施;建筑物门;建筑物正门	991001	金门路1072号金门国际商业广场F1层	120.580531,31.308276	江苏省	苏州市	姑苏区	15939

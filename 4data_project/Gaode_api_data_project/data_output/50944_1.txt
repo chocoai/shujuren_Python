@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFF43Z06	茂业百货铁西店(北门)	通行设施;建筑物门;建筑物正门	991001	沈辽东路79号茂业百货F1层	123.361183,41.780359	辽宁省	沈阳市	铁西区	50944

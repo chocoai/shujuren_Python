@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFI6DPZ8	和谐广场(北门)	通行设施;建筑物门;建筑物正门	991001	经十路22799号和谐广场F1层	116.977618,36.651592	山东省	济南市	槐荫区	10310

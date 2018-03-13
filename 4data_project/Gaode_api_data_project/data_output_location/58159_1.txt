@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHCB32O	重庆潼南民康医院(北门)	通行设施;建筑物门;建筑物正门	991001	东安大道181	105.838699,30.175315	重庆市	重庆市	潼南区	58159

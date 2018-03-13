@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGPMJ9V	凯德广场(北4门)	通行设施;建筑物门;建筑物正门	991001	中山大道238号凯德广场F1层	114.267101,30.569021	湖北省	武汉市	硚口区	56602

@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFG7MYZC	华强广场A座(北门)	通行设施;建筑物门;建筑物正门	991001	三好街72-3号5-6-1室附近	123.426576,41.763014	辽宁省	沈阳市	和平区	19101

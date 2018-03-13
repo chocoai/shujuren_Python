@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHMUXYV	长嘉汇购物公园(南滨路入口)	通行设施;建筑物门;建筑物正门	991001	南滨路	106.585146,29.578031	重庆市	重庆市	南岸区	28215
+B0FFHCK289	长嘉汇购物公园(南门)	通行设施;建筑物门;建筑物正门	991001	南滨路东50米	106.585418,29.578136	重庆市	重庆市	南岸区	28215

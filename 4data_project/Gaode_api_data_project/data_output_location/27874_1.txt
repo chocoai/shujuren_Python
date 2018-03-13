@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFIJUUUR	华百广场(西门)	通行设施;建筑物门;建筑物正门	991001	富阳街与正安路交叉口东北100米	117.175262,36.968357	山东省	济南市	济阳县	27874

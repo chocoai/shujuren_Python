@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFFRK657	星天广场(南门)	通行设施;建筑物门;建筑物正门	991001	东环路59号	106.533782,29.576039	重庆市	重庆市	江北区	22581

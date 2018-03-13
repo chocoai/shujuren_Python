@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFG3OEKX	丽柏广场(南门)	通行设施;建筑物门;建筑物正门	991001	环市东路367号丽柏广场F1层	113.286686,23.137265	广东省	广州市	越秀区	107

@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFG7TG7A	华府天地1号楼(西门)	通行设施;建筑物门;建筑物正门	991001	团结路7-1号	123.431952,41.813248	辽宁省	沈阳市	沈河区	18184
+B0FFF5M0DR	华府天地2号楼(西门)	通行设施;建筑物门;建筑物正门	991001	哈尔滨路128-2号	123.431807,41.812622	辽宁省	沈阳市	沈河区	18184

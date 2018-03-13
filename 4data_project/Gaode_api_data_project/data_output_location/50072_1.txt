@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFH1I72A	天虹(东北门)	通行设施;建筑物门;建筑物正门	991001	东风路32号附近	113.664165,22.937419	广东省	东莞市	东莞市	50072

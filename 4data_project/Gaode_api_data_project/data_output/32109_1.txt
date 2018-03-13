@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHOSOF1	澳洲广场(东2门)	通行设施;建筑物门;建筑物正门	991001	大华路538号澳洲广场F1层	121.414358,31.272484	上海市	上海市	宝山区	32109

@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGPEJV4	西溪印象城(北6门)	通行设施;建筑物门;建筑物正门	991001	五常大道1号(近西溪湿地公园)西溪印象城L1层	120.050459,30.247949	浙江省	杭州市	余杭区	3265

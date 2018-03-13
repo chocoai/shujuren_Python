@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHLHCWS	步步高生活广场(出入口)	通行设施;建筑物门;建筑物正门	991001	含浦大道与西二环交叉口步步高生活广场F1层	112.925828,28.160879	湖南省	长沙市	岳麓区	3261

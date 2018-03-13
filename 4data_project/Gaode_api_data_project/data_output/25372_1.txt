@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHYJ6KK	凯德广场云尚(西北2门)	通行设施;建筑物门;建筑物正门	991001	云城西路888号凯德广场云尚F1层	113.269165,23.181257	广东省	广州市	白云区	25372

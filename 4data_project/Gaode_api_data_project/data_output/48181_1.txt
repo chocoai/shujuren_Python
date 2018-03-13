@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHCZI2D	卓展购物中心(南门)	通行设施;建筑物门;建筑物正门	991001	北京街7-1号卓展购物中心F1层	123.433612,41.808176	辽宁省	沈阳市	沈河区	48181

@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHHHPS5	彩生活时代广场(西南门)	通行设施;建筑物门;建筑物正门	991001	嘉闵高架路与莘福路交叉口北150米	121.362698,31.103611	上海市	上海市	闵行区	49715

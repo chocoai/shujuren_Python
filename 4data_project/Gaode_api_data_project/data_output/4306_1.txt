@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHMRR0S	东方伟业城市广场(东北门)	通行设施;建筑物门;建筑物正门	991001	成功街与滨江路交叉口西100米	118.396613,24.959794	福建省	泉州市	南安市	4306

@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGDQ021	施湾绿地新都会(正门)	通行设施;建筑物门;建筑物正门	991001	施新路与施镇老街交叉口东南100米	121.757828,31.147656	上海市	上海市	浦东新区	15426

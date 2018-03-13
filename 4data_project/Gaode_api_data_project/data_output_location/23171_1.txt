@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGLECPF	中环广场L座(北门)	通行设施;建筑物门;建筑物正门	991001	中景三街6号183附近	113.539607,22.799860	广东省	广州市	南沙区	23171

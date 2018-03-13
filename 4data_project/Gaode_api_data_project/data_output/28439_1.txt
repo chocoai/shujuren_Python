@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFFR99YW	铂顿城(西门)	通行设施;建筑物门;建筑物正门	991001	建新路111号铂顿城F1层	113.113242,23.026482	广东省	佛山市	禅城区	28439

@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFFS3MC8	长城宾馆写字楼(北门)	通行设施;建筑物门;建筑物正门	991001	大坪长江二路174号	106.514786,29.533695	重庆市	重庆市	渝中区	31414

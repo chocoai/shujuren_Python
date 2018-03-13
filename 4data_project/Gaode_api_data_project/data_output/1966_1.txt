@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFG4G57S	ATM潮流百货(东门)	通行设施;建筑物门;建筑物正门	991001	解放路391号	114.298499,30.542573	湖北省	武汉市	武昌区	1966

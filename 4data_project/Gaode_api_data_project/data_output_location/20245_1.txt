@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHCQVVG	永富大厦(南门)	通行设施;建筑物门;建筑物正门	991001	石桥路395号	120.190899,30.341490	浙江省	杭州市	下城区	20245

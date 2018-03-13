@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGLFUO6	大洋百货(西北门)	通行设施;建筑物门;建筑物正门	991001	和平路529号	117.664754,39.017513	天津市	天津市	滨海新区	24874

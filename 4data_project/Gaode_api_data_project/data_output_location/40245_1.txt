@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFG7VW7Z	新民市图书馆(东北门)	通行设施;建筑物门;建筑物正门	991001	辽河大街146号	122.826208,41.998671	辽宁省	沈阳市	新民市	40245

@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFG4KBRY	新世界数码港旗舰大厦(东北门)	通行设施;建筑物门;建筑物正门	991001	香港中路40号	120.390457,36.065101	山东省	青岛市	市南区	21369

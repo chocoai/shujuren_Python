@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFFRK788	国瑞购物中心(西门)	通行设施;建筑物门;建筑物正门	991001	松青路1011号国瑞购物中心B1层	106.480475,29.477337	重庆市	重庆市	大渡口区	11108

@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHD5UP0	1克拉生活广场(西四门)	通行设施;建筑物门;建筑物正门	991001	枫杨路107号1克拉生活广场1F层	123.330320,41.657863	辽宁省	沈阳市	苏家屯区	22900

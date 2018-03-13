@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFFW44TN	水平方(南2门)	通行设施;建筑物门;建筑物正门	991001	建康路3号水平方F1层	118.787289,32.023183	江苏省	南京市	秦淮区	56450

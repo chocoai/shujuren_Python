@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGSAAUO	汇赢商业广场(西门)	通行设施;建筑物门;建筑物正门	991001	宏光路123号汇赢商业广场F1层	113.546530,23.109229	广东省	广州市	黄埔区	15012

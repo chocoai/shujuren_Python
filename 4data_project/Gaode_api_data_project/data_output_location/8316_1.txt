@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFI695HH	万国奥特莱斯(西南门)	通行设施;建筑物门;建筑物正门	991001	前进路40号万国奥特莱斯F1层	113.272670,23.101652	广东省	广州市	海珠区	8316

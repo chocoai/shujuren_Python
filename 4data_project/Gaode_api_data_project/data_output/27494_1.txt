@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHH3IOQ	MS慕斯荟(南门)	通行设施;建筑物门;建筑物正门	991001	浦珠南路26号MS慕斯荟F1层	118.646524,32.073980	江苏省	南京市	浦口区	27494

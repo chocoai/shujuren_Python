@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGZH875	中融信托大厦(西北门)	通行设施;建筑物门;建筑物正门	991001	寿阳路与江场路交叉口东200米	121.457911,31.298693	上海市	上海市	静安区	26128

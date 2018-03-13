@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHGD9L9	望洲城购物中心(正门)	通行设施;建筑物门;建筑物正门	991001	禹航路与102省道交叉口北100米	119.952023,30.250678	浙江省	杭州市	余杭区	27499

@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHJDYND	新天泽国际广场(出入口)	通行设施;建筑物门;建筑物正门	991001	松青路1099号新天泽国际广场1F层	106.479932,29.474510	重庆市	重庆市	大渡口区	2993
+B0FFFRK75L	新天泽国际广场(东门)	通行设施;建筑物门;建筑物正门	991001	松青路1099号	106.481038,29.475001	重庆市	重庆市	大渡口区	2993

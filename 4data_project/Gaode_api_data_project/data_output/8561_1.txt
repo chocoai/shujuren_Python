@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGWIV2L	海天欢乐购(西南门)	通行设施;建筑物门;建筑物正门	991001	汉阳大道582号海天欢乐购F1层	114.211248,30.562551	湖北省	武汉市	汉阳区	8561

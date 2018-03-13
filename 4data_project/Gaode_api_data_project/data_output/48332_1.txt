@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFG75TPG	悦荟(西南门)	通行设施;建筑物门;建筑物正门	991001	人民一路175号附近	120.361512,36.105224	山东省	青岛市	市北区	48332

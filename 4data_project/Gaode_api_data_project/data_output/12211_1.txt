@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHB923Q	百信广场(3号门)	通行设施;建筑物门;建筑物正门	991001	机场路1399号百信广场L1层	113.262264,23.194301	广东省	广州市	白云区	12211

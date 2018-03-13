@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFFQ5VXZ	蚂蚁工房(北门)	通行设施;建筑物门;建筑物正门	991001	东牌楼街57号	112.978302,28.193411	湖南省	长沙市	芙蓉区	31474
+B0FFH5YDYU	新世界商贸城B座(东南门)	通行设施;建筑物门;建筑物正门	991001	犁头后街42号	112.978895,28.193723	湖南省	长沙市	芙蓉区	31474

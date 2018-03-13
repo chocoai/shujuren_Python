@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFH2BHSV	李文正楼(东门)	通行设施;建筑物门;建筑物正门	991001	大学路168号	118.090286,24.435733	福建省	厦门市	思明区	24335

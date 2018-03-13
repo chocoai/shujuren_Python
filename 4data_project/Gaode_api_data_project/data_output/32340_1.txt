@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFILB12E	VDVC PARK(西南门)	通行设施;建筑物门;建筑物正门	991001	解放西路336号附近	112.974680,28.191708	湖南省	长沙市	天心区	32340

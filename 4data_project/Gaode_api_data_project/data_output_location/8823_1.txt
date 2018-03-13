@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHMLWWM	积家购物中心(东门)	通行设施;建筑物门;建筑物正门	991001	道义南大街33号积家购物中心F1层	123.400648,41.921105	辽宁省	沈阳市	沈北新区	8823
+B0FFHCPWB1	积家购物中心(西南门)	通行设施;建筑物门;建筑物正门	991001	道义南大街33号积家购物中心F1层	123.400527,41.921107	辽宁省	沈阳市	沈北新区	8823

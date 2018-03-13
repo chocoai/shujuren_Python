@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFFZCDNH	世贸天阶南街(南街S1门)	通行设施;建筑物门;建筑物正门	991001	光华路甲9号世贸天阶南街L1层	116.450840,39.916317	北京市	北京市	朝阳区	31736
+B0FFHU75J9	天阶大厦(东门)	通行设施;建筑物门;建筑物正门	991001	光华路9号世贸天阶	116.453460,39.916071	北京市	北京市	朝阳区	31736

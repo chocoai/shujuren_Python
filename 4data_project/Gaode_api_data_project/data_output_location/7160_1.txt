@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFH2BLGU	海港城(东北二门)	通行设施;建筑物门;建筑物正门	991001	沿江东路418号海港城F1层	113.282828,23.113874	广东省	广州市	越秀区	7160

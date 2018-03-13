@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFIJUD1T	荣民龙首广场(西门)	通行设施;建筑物门;建筑物正门	991001	未央路与龙首北路西段交叉口东南100米	108.947769,34.292459	陕西省	西安市	莲湖区	48825
+B0FFIRTNVQ	荣民龙首广场(西1门)	通行设施;建筑物门;建筑物正门	991001	未央大道27号	108.947733,34.292089	陕西省	西安市	莲湖区	48825

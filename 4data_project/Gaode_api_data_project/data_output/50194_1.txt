@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHFZUSW	亦庄创意生活广场(东门)	通行设施;建筑物门;建筑物正门	991001	文化园东路6号亦庄创意生活广场F1层	116.503582,39.810632	北京市	北京市	大兴区	50194

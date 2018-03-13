@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFG4K1PG	中茵世贸广场(西南三门)	通行设施;建筑物门;建筑物正门	991001	玉山镇中山路138号中茵世贸广场F1层	120.952217,31.383207	江苏省	苏州市	昆山市	48403
+B0FFFS2MPP	百盛(东南2门)	通行设施;建筑物门;建筑物正门	991001	前进西路300号	120.953644,31.382083	江苏省	苏州市	昆山市	48403

@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFI5GIJ7	溧水区文化馆(西北门)	通行设施;建筑物门;建筑物正门	991001	永阳镇后巷5号	119.027570,31.653244	江苏省	南京市	溧水区	50635

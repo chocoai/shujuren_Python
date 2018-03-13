@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFF9IXMI	苏宁广场(西北门)	通行设施;建筑物门;建筑物正门	991001	人民中路111号	120.302448,31.576307	江苏省	无锡市	梁溪区	9474
+B0FFHT5KHK	苏宁广场北塔(北门)	通行设施;建筑物门;建筑物正门	991001	人民中路111号苏宁广场北塔1F层	120.302563,31.576198	江苏省	无锡市	梁溪区	9474

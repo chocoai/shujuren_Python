@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHJRL74	尚柏奥莱(出入口)	通行设施;建筑物门;建筑物正门	991001	蒲河路98号尚柏奥莱1F层	123.461694,41.954263	辽宁省	沈阳市	沈北新区	48188

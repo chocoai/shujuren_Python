@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHS8YVX	美联·国际贸易广场(西二门)	通行设施;建筑物门;建筑物正门	991001	汇流路1号美联·国际贸易广场F1层	106.568502,29.632722	重庆市	重庆市	渝北区	24770

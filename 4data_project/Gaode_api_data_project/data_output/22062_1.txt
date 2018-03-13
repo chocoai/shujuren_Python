@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFH7W4J9	金骊城(南门)	通行设施;建筑物门;建筑物正门	991001	同泰路87号金骊城F1层	113.303659,23.221545	广东省	广州市	白云区	22062

@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGPMJ6T	国贸·时代购物公园(东一门)	通行设施;建筑物门;建筑物正门	991001	北京西路20号国贸·时代购物公园1层	106.624149,26.600641	贵州省	贵阳市	观山湖区	48545
+B0FFIMW5XX	tpmall(东北门)	通行设施;建筑物门;建筑物正门	991001	北京西路18号附近	106.624167,26.600636	贵州省	贵阳市	观山湖区	48545

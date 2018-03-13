@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHLHM3H	新天地广场(东门)	通行设施;建筑物门;建筑物正门	991001	夏塘路新天地广场F1层	113.157646,23.197804	广东省	佛山市	南海区	6538

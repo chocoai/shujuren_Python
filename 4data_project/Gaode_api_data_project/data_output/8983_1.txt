@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFG4BOQA	万达广场(西1门)	通行设施;建筑物门;建筑物正门	991001	水果湖街沙湖大道18号万达广场F1层	114.337566,30.555900	湖北省	武汉市	武昌区	8983
+B0FFGPMJ4P	万达广场(北4门)	通行设施;建筑物门;建筑物正门	991001	水果湖街沙湖大道18号万达广场F1层	114.339192,30.557151	湖北省	武汉市	武昌区	8983

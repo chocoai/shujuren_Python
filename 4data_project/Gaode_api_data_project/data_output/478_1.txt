@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFG4E37D	正升百老汇广场(东南门)	通行设施;建筑物门;建筑物正门	991001	杨家坪正街x号附近	106.514982,29.507552	重庆市	重庆市	九龙坡区	478

@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFI03564	万象生活城(西南5门)	通行设施;建筑物门;建筑物正门	991001	西环中路691号万象生活城1F层	119.290272,26.064266	福建省	福州市	台江区	48463

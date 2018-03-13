@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHPUA5Q	富阳宝龙城市广场(正门)	通行设施;建筑物门;建筑物正门	991001	文居街1001号富阳宝龙城市广场1F层	119.924395,30.057592	浙江省	杭州市	富阳区	53342

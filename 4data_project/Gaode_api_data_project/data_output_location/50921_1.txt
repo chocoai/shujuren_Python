@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGFJ9S4	万事达广场A座(东南门)	通行设施;建筑物门;建筑物正门	991001	丛云路自编-168号b座附近	113.293383,23.208284	广东省	广州市	白云区	50921

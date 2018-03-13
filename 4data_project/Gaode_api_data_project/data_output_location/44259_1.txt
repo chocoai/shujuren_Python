@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHFC604	鸿泰·千佰汇商业广场(北2门)	通行设施;建筑物门;建筑物正门	991001	开发区第三大街32号鸿泰·千佰汇商业广场F1层	117.705607,39.029679	天津市	天津市	滨海新区	44259

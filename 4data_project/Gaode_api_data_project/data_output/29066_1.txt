@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHTVJ3O	亚星投资大厦(西门)	通行设施;建筑物门;建筑物正门	991001	商都路55号附近	113.756575,34.746023	河南省	郑州市	管城回族区	29066

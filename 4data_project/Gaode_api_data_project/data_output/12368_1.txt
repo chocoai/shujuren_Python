@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFF08D9D	宏府嘉会广场B座(东门)	通行设施;建筑物门;建筑物正门	991001	北大街88号	108.946643,34.262751	陕西省	西安市	莲湖区	12368
+B0FFFYS29C	宏府嘉会广场C座(北门)	通行设施;建筑物门;建筑物正门	991001	北大街1号	108.946360,34.263706	陕西省	西安市	莲湖区	12368

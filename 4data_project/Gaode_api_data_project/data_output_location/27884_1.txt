@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFFZXV3B	晶品(南门)	通行设施;建筑物门;建筑物正门	991001	愚园路68号晶品F1层	121.446321,31.225246	上海市	上海市	静安区	27884

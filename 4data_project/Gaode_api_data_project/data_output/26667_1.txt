@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGFP993	昆山图书馆玉山分馆(东门)	通行设施;建筑物门;建筑物正门	991001	水秀路与蒋泾路交叉口西南50米	120.943149,31.407868	江苏省	苏州市	昆山市	26667

@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHTIZEX	宏都财富广场(正门)	通行设施;建筑物门;建筑物正门	991001	[]	103.976998,30.622649	四川省	成都市	武侯区	57476
+B0FFHGNL8E	华地财富广场(西北门)	通行设施;建筑物门;建筑物正门	991001	金园街263号附近	104.399658,30.861780	四川省	成都市	金堂县	57476

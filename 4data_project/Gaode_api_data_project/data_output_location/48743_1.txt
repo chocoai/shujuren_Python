@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHQA2LB	鲁巷广场购物中心(北5门)	通行设施;建筑物门;建筑物正门	991001	珞喻路726号鲁巷广场购物中心F1层	114.396594,30.506875	湖北省	武汉市	洪山区	48743

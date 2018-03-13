@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHSTGPJ	嘉杰大厦(正门)	通行设施;建筑物门;建筑物正门	991001	四川北路1717号	121.482604,31.258939	上海市	上海市	虹口区	4017

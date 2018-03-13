@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHGC0SI	光耀东方中心(东北门)	通行设施;建筑物门;建筑物正门	991001	航天桥环岛与西三环中路交叉口东北150米	116.311528,39.925358	北京市	北京市	海淀区	6653

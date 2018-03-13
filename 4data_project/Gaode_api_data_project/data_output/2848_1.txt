@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFG7Q9Q8	66皇城恒隆广场(北1门)	通行设施;建筑物门;建筑物正门	991001	中街路128号66皇城恒隆广场L1层	123.454400,41.803036	辽宁省	沈阳市	沈河区	2848

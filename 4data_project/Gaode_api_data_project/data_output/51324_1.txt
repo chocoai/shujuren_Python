@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGCHXY2	金融中心购物广场(南1门)	通行设施;建筑物门;建筑物正门	991001	哈尔滨路168号金融中心购物广场1F层	123.435570,41.811561	辽宁省	沈阳市	沈河区	51324

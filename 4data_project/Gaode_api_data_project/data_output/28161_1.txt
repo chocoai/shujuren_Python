@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGI9OZK	旺达购物广场(西门)	通行设施;建筑物门;建筑物正门	991001	中北大道与旺庄村商业街交叉口北100米	117.088963,39.126393	天津市	天津市	西青区	28161

@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B021410WJQ	宝龙城市广场(北二门)	通行设施;建筑物门;建筑物正门	991001	振华街8号宝龙城市广场1F层	120.457329,36.392330	山东省	青岛市	即墨区	2902
+B0FFG7BTYM	宝龙广场(北2门)	通行设施;建筑物门;建筑物正门	991001	振华街88号	120.457710,36.392230	山东省	青岛市	即墨区	2902

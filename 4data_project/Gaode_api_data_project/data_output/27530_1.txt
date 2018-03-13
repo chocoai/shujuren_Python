@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFG376UA	京基·百纳广场(东南门)	通行设施;建筑物门;建筑物正门	991001	沙井路与创新路交汇处F1层	113.806515,22.727143	广东省	深圳市	宝安区	27530

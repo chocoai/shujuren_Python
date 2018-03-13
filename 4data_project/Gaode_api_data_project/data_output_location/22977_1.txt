@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGPMGV8	星摩尔沈阳购物广场(2号门)	通行设施;建筑物门;建筑物正门	991001	北二中路6号星摩尔沈阳购物广场1F层	123.376606,41.807864	辽宁省	沈阳市	铁西区	22977

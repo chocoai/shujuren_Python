@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHXZ0UA	长安哥伦布广场西区(西南门)	通行设施;建筑物门;建筑物正门	991001	春惠路156号长安哥伦布广场西区F1层	120.357327,31.675558	江苏省	无锡市	惠山区	54336

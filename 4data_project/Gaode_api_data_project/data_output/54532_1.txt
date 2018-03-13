@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFFTHELS	宏伊国际广场(北4门)	通行设施;建筑物门;建筑物正门	991001	南京东路299号宏伊国际广场F1层	121.484584,31.237308	上海市	上海市	黄浦区	54532
+B0FFFZJM41	宏伊国际广场(南2门)	通行设施;建筑物门;建筑物正门	991001	南京东路299号宏伊国际广场F1层	121.484488,31.236662	上海市	上海市	黄浦区	54532

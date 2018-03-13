@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHG9L1X	青岛双峰商业广场A区(东北门)	通行设施;建筑物门;建筑物正门	991001	同德路与宁安路交叉口西200米	120.402603,36.116397	山东省	青岛市	市北区	48344

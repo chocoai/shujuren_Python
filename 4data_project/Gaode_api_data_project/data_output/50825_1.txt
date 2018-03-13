@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHPSJK2	天阳亲子广场(正门)	通行设施;建筑物门;建筑物正门	991001	富春路133号附近	120.196696,30.230910	浙江省	杭州市	上城区	50825

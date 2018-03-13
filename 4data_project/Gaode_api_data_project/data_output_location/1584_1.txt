@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHIG4QO	海纳广场(出入口)	通行设施;建筑物门;建筑物正门	991001	黄河路42号海纳广场1F层	106.702469,26.521760	贵州省	贵阳市	花溪区	1584

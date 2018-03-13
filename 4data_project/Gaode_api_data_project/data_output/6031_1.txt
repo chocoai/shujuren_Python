@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGAOEJJ	百协大溪地国际商业广场(东门)	通行设施;建筑物门;建筑物正门	991001	岳西路9号附近	117.224896,31.842047	安徽省	合肥市	蜀山区	6031
+B0FFG3OD4H	港澳广场(东北门)	通行设施;建筑物门;建筑物正门	991001	翡翠路与芙蓉路交口往北50米处港澳广场F1层	117.209231,31.791131	安徽省	合肥市	蜀山区	6031

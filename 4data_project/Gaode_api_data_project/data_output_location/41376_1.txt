@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHMLXRL	利时广场(北门)	通行设施;建筑物门;建筑物正门	991001	中兴一路与机电路交叉口北150米利时广场F1层	121.291987,30.291699	浙江省	宁波市	慈溪市	41376

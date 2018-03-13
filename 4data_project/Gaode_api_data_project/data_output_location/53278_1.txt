@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGFR8R7	英冠百货(正门)	通行设施;建筑物门;建筑物正门	991001	义蓬中路365号附近	120.490058,30.267615	浙江省	杭州市	萧山区	53278

@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFG4ZGDF	宜爱·欢乐城(东2门)	通行设施;建筑物门;建筑物正门	991001	解放路258号宜爱·欢乐城F1层	108.962620,34.267848	陕西省	西安市	新城区	26244

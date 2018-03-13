@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFICOWAO	邦豪时尚广场(东南门)	通行设施;建筑物门;建筑物正门	991001	濠北路与濠西路交叉口西50米	120.855829,32.023743	江苏省	南通市	崇川区	24781

@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHD6B9Q	红星美凯龙(4号门)	通行设施;建筑物门;建筑物正门	991001	迎宾路35号红星美凯龙1F层	120.578056,31.267110	江苏省	苏州市	虎丘区	23123

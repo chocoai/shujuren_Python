@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFH7Q43E	泛海国际中心(北门)	通行设施;建筑物门;建筑物正门	991001	福州南路27号附近	120.397094,36.069358	山东省	青岛市	市南区	21858

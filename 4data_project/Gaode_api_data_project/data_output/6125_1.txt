@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFG3ODAT	五彩城(东门)	通行设施;建筑物门;建筑物正门	991001	望江西路与合作化南路交汇处	117.251345,31.829332	安徽省	合肥市	蜀山区	6125

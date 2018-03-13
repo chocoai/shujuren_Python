@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFFTRJ45	和达城(南门)	通行设施;建筑物门;建筑物正门	991001	2号大街与5号大街交界处西南方	120.347889,30.308623	浙江省	杭州市	江干区	60545

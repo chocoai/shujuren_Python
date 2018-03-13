@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGWUS6U	KKPark光明广场(正门)	通行设施;建筑物门;建筑物正门	991001	光翠路南10号附近	113.943031,22.758174	广东省	深圳市	宝安区	31843

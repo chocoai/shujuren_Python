@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHFESDL	万象时尚广场(北1门)	通行设施;建筑物门;建筑物正门	991001	北滘镇碧江泰宁西路51号万象时尚广场1F层	113.258499,22.940261	广东省	佛山市	顺德区	27853

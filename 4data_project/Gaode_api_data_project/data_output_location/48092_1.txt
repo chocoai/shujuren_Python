@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B02F38NHG2	星河COCO Park(北门)	通行设施;建筑物门;建筑物正门	991001	民田路与福华路交叉口东南100米	114.053462,22.534337	广东省	深圳市	福田区	48092

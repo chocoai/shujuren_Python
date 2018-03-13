@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFG0V75W	合生骏景广场(北门)	通行设施;建筑物门;建筑物正门	991001	中山大道西1119号附近	113.382098,23.125093	广东省	广州市	天河区	8537

@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFG6RJJS	银座中心2号楼(西门)	通行设施;建筑物门;建筑物正门	991001	经十路339号附近	116.976831,36.649207	山东省	济南市	槐荫区	55879

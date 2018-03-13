@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGJ2NKS	顺安写字楼B座(东南门)	通行设施;建筑物门;建筑物正门	991001	浣南东街42号	113.232248,23.079941	广东省	广州市	荔湾区	19916

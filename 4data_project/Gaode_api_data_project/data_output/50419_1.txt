@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFG1ON61	东方商厦淮海店(正门)	通行设施;建筑物门;建筑物正门	991001	淮海中路755号新华联商厦内(近瑞金二路)	121.464202,31.218697	上海市	上海市	黄浦区	50419

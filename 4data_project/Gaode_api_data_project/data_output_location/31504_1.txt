@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFFRHH65	鸿运大厦(北门)	通行设施;建筑物门;建筑物正门	991001	禾祥东路108号	118.113964,24.471733	福建省	厦门市	思明区	31504

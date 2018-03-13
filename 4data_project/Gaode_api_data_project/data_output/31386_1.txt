@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFG4A3YB	新都汇(东门)	通行设施;建筑物门;建筑物正门	991001	新都汇69号	121.244457,30.170533	浙江省	宁波市	慈溪市	31386
+B0FFG4A4HO	新都汇商务中心(南门)	通行设施;建筑物门;建筑物正门	991001	新市路东36号	121.244956,30.170030	浙江省	宁波市	慈溪市	31386

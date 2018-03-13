@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFG4IT7T	好又多生活购物广场(东北门)	通行设施;建筑物门;建筑物正门	991001	盘城新街139号附近	118.717551,32.207811	江苏省	南京市	浦口区	29546

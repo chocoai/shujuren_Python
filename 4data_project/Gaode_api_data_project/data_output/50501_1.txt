@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B001D0WP9W	中大国际(东二门)	通行设施;建筑物门;建筑物正门	991001	南大街30号中大国际G层	108.946663,34.254042	陕西省	西安市	碑林区	50501

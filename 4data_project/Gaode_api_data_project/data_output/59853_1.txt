@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFG6VDWH	北京华尔医院(南门)	通行设施;建筑物门;建筑物正门	991001	西总布胡同59号	116.418659,39.912159	北京市	北京市	东城区	59853

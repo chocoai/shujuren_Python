@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHQA3NA	昆明滇池国际会展中心(南七门)	通行设施;建筑物门;建筑物正门	991001	环湖东路昆明滇池国际会展中心F1层	102.708357,24.942313	云南省	昆明市	官渡区	30647

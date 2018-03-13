@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHCLC2J	友谊汉友百货(东南门)	通行设施;建筑物门;建筑物正门	991001	三经路与四纬路交口友谊汉友百货1F层	117.790540,39.241760	天津市	天津市	滨海新区	48363

@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFG40END	正佳广场(东北门)	通行设施;建筑物门;建筑物正门	991001	天河路228号正佳广场F1层	113.327582,23.132746	广东省	广州市	天河区	28081
+B0FFFZJJUW	正佳广场(西门)	通行设施;建筑物门;建筑物正门	991001	天河路228号正佳广场1层	113.326019,23.131804	广东省	广州市	天河区	28081

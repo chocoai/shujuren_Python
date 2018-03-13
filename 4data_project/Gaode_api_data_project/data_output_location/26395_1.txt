@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHOCP6Z	泰府广场(建筑物正门)	通行设施;建筑物门;建筑物正门	991001	泉城路277号泰府广场F1层	117.022073,36.664981	山东省	济南市	历下区	26395

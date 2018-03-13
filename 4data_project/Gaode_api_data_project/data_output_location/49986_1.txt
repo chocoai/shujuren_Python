@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHITC8P	亿潼隆万丰购物中心(出入口)	通行设施;建筑物门;建筑物正门	991001	万丰路305号亿潼隆万丰购物中心1F层	116.296174,39.873400	北京市	北京市	丰台区	49986

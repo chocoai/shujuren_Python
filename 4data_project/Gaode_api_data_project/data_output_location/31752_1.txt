@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGB20R5	人防大厦(东门)	通行设施;建筑物门;建筑物正门	991001	解放北路162号	113.613979,23.119827	广东省	广州市	增城区	31752

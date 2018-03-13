@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGPEJS5	玉长城商业广场(东7门)	通行设施;建筑物门;建筑物正门	991001	春秋北路271号玉长城商业广场F1层	119.941675,30.060139	浙江省	杭州市	富阳区	1092
+B0FFGPEJUY	玉长城商业广场(东2门)	通行设施;建筑物门;建筑物正门	991001	春秋北路271号玉长城商业广场F1层	119.941082,30.061093	浙江省	杭州市	富阳区	1092

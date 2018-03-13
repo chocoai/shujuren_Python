@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFG0W2C4	高淳汽车客运站(东北门)	通行设施;建筑物门;建筑物正门	991001	丹阳湖北路28号	118.896513,31.333185	江苏省	南京市	高淳区	31003

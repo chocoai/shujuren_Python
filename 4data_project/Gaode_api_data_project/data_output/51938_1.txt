@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGILIBM	中海国际购物公园(东北门)	通行设施;建筑物门;建筑物正门	991001	汇川街318号1栋附近	103.979735,30.722732	四川省	成都市	金牛区	51938

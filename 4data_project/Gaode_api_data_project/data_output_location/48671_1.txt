@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFFQ07UK	海德广场(东北门)	通行设施;建筑物门;建筑物正门	991001	鸿福路200号	113.757995,23.011439	广东省	东莞市	东莞市	48671
+B0FFG6OQ56	第一国际商务大厦D座(东北门)	通行设施;建筑物门;建筑物正门	991001	东莞大道附近	113.757883,23.010382	广东省	东莞市	东莞市	48671

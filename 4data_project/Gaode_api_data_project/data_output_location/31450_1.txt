@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFILE9XM	恒星大厦(西门)	通行设施;建筑物门;建筑物正门	991001	南新街7号附近	108.954377,34.260944	陕西省	西安市	新城区	31450

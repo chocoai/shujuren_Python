@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGFPN3A	天府汇城商务楼B座(西门)	通行设施;建筑物门;建筑物正门	991001	科华中路30号附近	104.075344,30.618933	四川省	成都市	武侯区	9315

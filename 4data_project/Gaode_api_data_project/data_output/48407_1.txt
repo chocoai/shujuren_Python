@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHH3EJZ	万达广场吴中店(南门)	通行设施;建筑物门;建筑物正门	991001	石湖西路188号万达广场F1层	120.608490,31.253188	江苏省	苏州市	吴中区	48407

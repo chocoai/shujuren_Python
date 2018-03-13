@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHETYU5	嘉信城市广场(东南二门)	通行设施;建筑物门;建筑物正门	991001	大良新城祥和路兴顺路路口嘉信城市广场F1层	113.289335,22.795897	广东省	佛山市	顺德区	15397

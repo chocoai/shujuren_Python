@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B02F38UI71	摩尔城购物中心(北2门)	通行设施;建筑物门;建筑物正门	991001	龙岗大道龙岗段6002-10摩尔城购物中心F1层	114.268063,22.722601	广东省	深圳市	龙岗区	8863

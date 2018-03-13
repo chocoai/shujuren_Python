@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHEV8FW	苏宁生活广场东新街(东二门)	通行设施;建筑物门;建筑物正门	991001	解放路186号苏宁生活广场(东新街)F1层	108.962667,34.265153	陕西省	西安市	新城区	26403

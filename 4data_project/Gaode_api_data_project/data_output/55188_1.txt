@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHTR8EO	金马镇蓉西新城社会服务综合体B区(正门)	通行设施;建筑物门;建筑物正门	991001	科华路715号附近	103.818295,30.642100	四川省	成都市	温江区	55188
+B0FFGFNSVR	成都体育学院综合馆(北门)	通行设施;建筑物门;建筑物正门	991001	一环路西一段19号	104.042069,30.645528	四川省	成都市	武侯区	55188

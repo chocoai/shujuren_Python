@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHRJZ4U	北辰·泰岳(正门)	通行设施;建筑物门;建筑物正门	991001	北苑路与红军营南路交叉口西南100米	116.417426,40.032248	北京市	北京市	朝阳区	347
+B0FFHP72MK	北辰新纪元2(正门)	通行设施;建筑物门;建筑物正门	991001	红军营南路甲2号附近	116.416814,40.031235	北京市	北京市	朝阳区	347

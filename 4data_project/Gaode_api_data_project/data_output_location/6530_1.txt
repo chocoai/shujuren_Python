@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHHZV96	金亿城西区(西门)	通行设施;建筑物门;建筑物正门	991001	藕前路陆步桥街1号金亿城西区F1层	120.547352,31.364876	江苏省	苏州市	姑苏区	6530

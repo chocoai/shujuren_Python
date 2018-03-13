@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B02500U6H2	SM城市广场(西门)	通行设施;建筑物门;建筑物正门	991001	嘉禾路468号SM城市广场F1层	118.126484,24.500842	福建省	厦门市	湖里区	51653

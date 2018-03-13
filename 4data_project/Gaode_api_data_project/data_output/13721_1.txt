@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFH1FZD8	晋合88PLAZA(南门)	通行设施;建筑物门;建筑物正门	991001	华池街88号晋合88PLAZAF1层	120.714714,31.322900	江苏省	苏州市	吴中区	13721

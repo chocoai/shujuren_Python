@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHE8M9V	恒隆广场(东北门)	通行设施;建筑物门;建筑物正门	991001	兴安路166号	117.201096,39.128008	天津市	天津市	和平区	21365
+B0FFH06RQ4	恒隆广场(北2门)	通行设施;建筑物门;建筑物正门	991001	兴安路166号恒隆广场L1层	117.200294,39.128300	天津市	天津市	和平区	21365

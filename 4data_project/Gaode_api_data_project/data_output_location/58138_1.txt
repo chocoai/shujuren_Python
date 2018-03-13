@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFFYS2ZT	SOHO国际公寓A座(西门)	通行设施;建筑物门;建筑物正门	991001	南滨路79号附近	106.585991,29.542703	重庆市	重庆市	南岸区	58138
+B0FFFYS347	SOHO国际公寓B座(东南门)	通行设施;建筑物门;建筑物正门	991001	南滨路79-2栋附6号附近	106.586021,29.541852	重庆市	重庆市	南岸区	58138

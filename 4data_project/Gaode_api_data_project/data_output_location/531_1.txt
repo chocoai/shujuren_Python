@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHPUMIP	比如世界购物中心(西门)	通行设施;建筑物门;建筑物正门	991001	京顺路111号比如世界购物中心F1层	116.460975,39.968092	北京市	北京市	朝阳区	531

@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHLGQBL	金铂广场(东二门)	通行设施;建筑物门;建筑物正门	991001	同和大街1号金铂广场1F层	113.325895,23.196332	广东省	广州市	白云区	13621
+B0FFHB92UQ	金铂广场(东一门)	通行设施;建筑物门;建筑物正门	991001	同和大街1号金铂广场1F层	113.325884,23.196416	广东省	广州市	白云区	13621

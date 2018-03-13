@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFH62L90	奥城国际写字楼C4(西北门)	通行设施;建筑物门;建筑物正门	991001	宾水西道76号附近	117.169790,39.077331	天津市	天津市	南开区	7805

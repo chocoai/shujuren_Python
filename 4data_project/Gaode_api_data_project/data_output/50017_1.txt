@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B000A9JT1C	百联清城国际购物中心(南门)	通行设施;建筑物门;建筑物正门	991001	兴华大街三段3号	116.331398,39.737993	北京市	北京市	大兴区	50017

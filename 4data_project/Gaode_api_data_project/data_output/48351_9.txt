@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFH2BRYN	厦门市图书馆高殿分馆(南门)	通行设施;建筑物门;建筑物正门	991001	殿前社4999号	118.111053,24.528133	福建省	厦门市	湖里区	48351
+B0FFGJYA0E	第二城快乐天地B座(西门)	通行设施;建筑物门;建筑物正门	991001	仙岳路1935号	118.142596,24.500369	福建省	厦门市	湖里区	48351

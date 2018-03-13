@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGBJ0M6	四川交投大厦(西南门)	通行设施;建筑物门;建筑物正门	991001	二环路西一段90号	104.024045,30.643800	四川省	成都市	武侯区	57811

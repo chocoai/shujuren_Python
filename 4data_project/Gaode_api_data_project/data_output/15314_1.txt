@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFF5OSYE	来又来(西二门)	通行设施;建筑物门;建筑物正门	991001	龙珠路39号来又来F1层	113.231648,23.398432	广东省	广州市	花都区	15314
+B0FFG4JFGG	来又来(南门)	通行设施;建筑物门;建筑物正门	991001	龙珠路39号来又来F1层	113.232075,23.397726	广东省	广州市	花都区	15314

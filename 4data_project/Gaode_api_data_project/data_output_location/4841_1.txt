@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFG9F8T1	哥伦布广场2期(东门)	通行设施;建筑物门;建筑物正门	991001	广南路315号哥伦布广场2期F1层	120.335870,31.590966	江苏省	无锡市	梁溪区	4841

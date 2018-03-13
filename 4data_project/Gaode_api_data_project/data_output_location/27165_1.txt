@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHOSDZI	乐尚城市广场(北二门)	通行设施;建筑物门;建筑物正门	991001	花桥镇绿地大道269号乐尚城市广场F1层	121.125910,31.285496	江苏省	苏州市	昆山市	27165

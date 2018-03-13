@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFG4FYK4	王府大厦麒玉楼(北门)	通行设施;建筑物门;建筑物正门	991001	人民东路8号	120.872397,32.017911	江苏省	南通市	崇川区	52207
+B0FFG4DZ7K	南通蓝印花布博物馆(东门)	通行设施;建筑物门;建筑物正门	991001	濠东路81号附近	120.872237,32.016874	江苏省	南通市	崇川区	52207

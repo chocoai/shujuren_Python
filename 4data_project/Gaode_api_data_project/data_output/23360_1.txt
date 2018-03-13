@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHSYUDA	北新国际广场(正门)	通行设施;建筑物门;建筑物正门	991001	敬成路99号附近	104.058941,30.772097	四川省	成都市	新都区	23360
+B0FFGA07A1	海伦城市广场(西北门)	通行设施;建筑物门;建筑物正门	991001	博海路与电子路交叉口东150米	104.159442,30.814173	四川省	成都市	新都区	23360

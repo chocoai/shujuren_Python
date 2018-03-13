@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHLH9KY	保利水城购物中心(东3门)	通行设施;建筑物门;建筑物正门	991001	桂城灯湖东路20号保利水城购物中心F1层	113.148611,23.060405	广东省	佛山市	南海区	5749

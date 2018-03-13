@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGXZNBE	恒大广场(西北门)	通行设施;建筑物门;建筑物正门	991001	三桂前街49-51号附近	104.073676,30.661642	四川省	成都市	青羊区	9254

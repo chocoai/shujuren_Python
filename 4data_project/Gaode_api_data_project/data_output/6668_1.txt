@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHQ9RBL	武汉摩尔城(东门)	通行设施;建筑物门;建筑物正门	991001	王家湾龙阳大道特6号武汉摩尔城F1层	114.208275,30.558709	湖北省	武汉市	汉阳区	6668

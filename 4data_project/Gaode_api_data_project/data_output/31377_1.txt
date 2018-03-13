@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGER5VE	21世纪国际商业中心(西北门)	通行设施;建筑物门;建筑物正门	991001	天元中路229号	118.827580,31.927539	江苏省	南京市	江宁区	31377

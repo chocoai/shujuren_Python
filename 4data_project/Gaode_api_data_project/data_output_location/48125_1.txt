@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHPRABS	万龙商场(西门)	通行设施;建筑物门;建筑物正门	991001	安立路107号附近	116.408078,39.993744	北京市	北京市	朝阳区	48125

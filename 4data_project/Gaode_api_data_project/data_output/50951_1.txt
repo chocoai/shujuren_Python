@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHMCY2K	形色城购物广场(南二门)	通行设施;建筑物门;建筑物正门	991001	沙井街道中心路34-1号形色城购物广场F1层	113.829678,22.721702	广东省	深圳市	宝安区	50951

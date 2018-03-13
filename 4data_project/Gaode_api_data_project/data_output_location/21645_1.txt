@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHDJRR0	天河城百货北京路店北区(北门)	通行设施;建筑物门;建筑物正门	991001	北京路一街238号天河城百货北京路店北区F1层	113.270034,23.123154	广东省	广州市	越秀区	21645

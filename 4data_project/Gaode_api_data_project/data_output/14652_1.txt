@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHFC3LH	恒光国际(东门)	通行设施;建筑物门;建筑物正门	991001	杨舍镇沙洲西路368号恒光国际F1层	120.518135,31.868511	江苏省	苏州市	张家港市	14652

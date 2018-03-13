@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHG8DVF	万科中心A座(西北门)	通行设施;建筑物门;建筑物正门	991001	台柳路与福州北路交叉口东100米	120.392373,36.111050	山东省	青岛市	市北区	27101

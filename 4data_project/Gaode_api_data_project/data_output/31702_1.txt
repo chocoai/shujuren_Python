@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGPMJ6D	朝阳大悦城(西南1门)	通行设施;建筑物门;建筑物正门	991001	朝阳北路101号(青年路口)朝阳大悦城F1层	116.518123,39.923916	北京市	北京市	朝阳区	31702

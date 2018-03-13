@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFG6VI1H	K88南益·名泉广场(西北门)	通行设施;建筑物门;建筑物正门	991001	宝华街37号	116.982077,36.675691	山东省	济南市	天桥区	18486
+B0FFG6VGJH	名泉中心(东门)	通行设施;建筑物门;建筑物正门	991001	堤口路k88号附近	116.982671,36.675526	山东省	济南市	天桥区	18486

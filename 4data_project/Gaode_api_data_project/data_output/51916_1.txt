@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFIE3XPH	金鹰国际购物中心金鹰人民路店(东北门)	通行设施;建筑物门;建筑物正门	991001	人民中路与环城东路交叉口西南50米	120.868788,32.017780	江苏省	南通市	崇川区	51916

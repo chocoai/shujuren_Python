@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHNTU4N	乐都汇(北门)	通行设施;建筑物门;建筑物正门	991001	中山大道1116号乐都汇F1层	113.420192,23.116311	广东省	广州市	天河区	31955
+B0FFH2CYCK	羽泰广场(东南门)	通行设施;建筑物门;建筑物正门	991001	中山大道中1057号附近	113.420587,23.117247	广东省	广州市	天河区	31955

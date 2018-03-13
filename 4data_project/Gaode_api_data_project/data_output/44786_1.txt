@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFG3YUD6	安盛购物广场(北二门)	通行设施;建筑物门;建筑物正门	991001	中华西路22号安盛购物广场F1层	121.589115,38.989252	辽宁省	大连市	甘井子区	44786

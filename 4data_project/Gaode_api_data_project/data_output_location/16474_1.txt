@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFI12M9G	万达广场(东2门)	通行设施;建筑物门;建筑物正门	991001	雁塔路北段8号万达广场F1层	108.962963,34.243172	陕西省	西安市	碑林区	16474
+B0FFFYS2ND	万达广场(东1门)	通行设施;建筑物门;建筑物正门	991001	雁塔路北段8号万达广场F1层	108.962960,34.243661	陕西省	西安市	碑林区	16474

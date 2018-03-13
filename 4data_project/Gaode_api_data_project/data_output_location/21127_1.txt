@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHQ9WM3	天街(1号门)	通行设施;建筑物门;建筑物正门	991001	金沙大道560号天街F1层	120.326152,30.309890	浙江省	杭州市	江干区	21127

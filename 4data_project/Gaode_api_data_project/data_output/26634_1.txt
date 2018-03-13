@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHUO4U3	爱琴海购物公园(东门)	通行设施;建筑物门;建筑物正门	991001	金山街道浦上大道198号爱琴海购物公园F1层	119.279862,26.040716	福建省	福州市	仓山区	26634

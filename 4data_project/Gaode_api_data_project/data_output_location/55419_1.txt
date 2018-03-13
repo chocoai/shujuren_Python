@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFFV3WUB	长鑫·领先国际(西门)	通行设施;建筑物门;建筑物正门	991001	南关正街95号	108.947283,34.244896	陕西省	西安市	碑林区	55419
+B0FFFV3N4O	伟世佳大厦(西门)	通行设施;建筑物门;建筑物正门	991001	南关正街101号	108.947342,34.245405	陕西省	西安市	碑林区	55419

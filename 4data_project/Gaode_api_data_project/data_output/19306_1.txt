@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFG1CQG6	万达广场(南2门)	通行设施;建筑物门;建筑物正门	991001	桂澜北路28号万达广场F1层	113.156931,23.062717	广东省	佛山市	南海区	19306

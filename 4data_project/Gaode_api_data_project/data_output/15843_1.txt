@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHJDN1K	动力时光(西门)	通行设施;建筑物门;建筑物正门	991001	泰山大道东段62号动力时光1F层	106.553212,29.602965	重庆市	重庆市	渝北区	15843

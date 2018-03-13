@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGPMJ0I	新佳丽时尚广场(西南门)	通行设施;建筑物门;建筑物正门	991001	中山大道818号新佳丽时尚广场F1层	114.290525,30.578371	湖北省	武汉市	江汉区	6789

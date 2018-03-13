@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFG73D8O	普祥医院(东门)	通行设施;建筑物门;建筑物正门	991001	大山子南里甲2	116.489141,39.982042	北京市	北京市	朝阳区	31847

@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGPMIVF	武汉永旺梦乐城B1(出入口)	通行设施;建筑物门;建筑物正门	991001	将军路街办事处金银潭大道1号武汉永旺梦乐城1F层	114.238144,30.649913	湖北省	武汉市	东西湖区	48130

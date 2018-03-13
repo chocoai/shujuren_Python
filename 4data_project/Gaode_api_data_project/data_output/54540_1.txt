@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFIFZK0J	文峰广场(东南门)	通行设施;建筑物门;建筑物正门	991001	解放中路与解放西路交叉口西北50米	121.165420,31.893626	江苏省	南通市	海门市	54540

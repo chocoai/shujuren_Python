@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHPUCOS	天津世贸城(建筑物正门)	通行设施;建筑物门;建筑物正门	991001	南泥湾路与黄河道交汇处天津世贸城1F层	117.121878,39.136620	天津市	天津市	南开区	27533

@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFIPZ65I	东海泰禾广场(西南门)	通行设施;建筑物门;建筑物正门	991001	丰海路附近	118.637428,24.872451	福建省	泉州市	丰泽区	24640

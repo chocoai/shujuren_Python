@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGHUKYY	环球置地广场(东北门)	通行设施;建筑物门;建筑物正门	991001	南京路309号	117.177551,39.121902	天津市	天津市	南开区	22206
+B0FFGJ56LK	仁恒置地广场(西1门)	通行设施;建筑物门;建筑物正门	991001	东马路与南城街交叉口东北50米	117.190628,39.139131	天津市	天津市	南开区	22206

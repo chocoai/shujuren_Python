@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHPUSKX	熙璟城购物中心(北门)	通行设施;建筑物门;建筑物正门	991001	富安大道与平安大道交汇处熙璟城购物中心1F层	114.135462,22.682344	广东省	深圳市	龙岗区	23763

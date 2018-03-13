@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHJZV8G	敏捷锦绣广场(东南门)	通行设施;建筑物门;建筑物正门	991001	府佑西路与金竹路交叉口西北100米	113.811675,23.286213	广东省	广州市	增城区	20817

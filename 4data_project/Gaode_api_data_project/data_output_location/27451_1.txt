@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHDU6SU	和平购物城(西2门)	通行设施;建筑物门;建筑物正门	991001	东新路155号和平购物城F1层	120.177568,30.290575	浙江省	杭州市	下城区	27451
+B0FFGZUM8A	和平购物城(西南门)	通行设施;建筑物门;建筑物正门	991001	东新路155号	120.176796,30.289754	浙江省	杭州市	下城区	27451

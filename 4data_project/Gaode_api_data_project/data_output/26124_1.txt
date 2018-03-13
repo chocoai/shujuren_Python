@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGJ26MQ	新太古城购物中心(西北门)	通行设施;建筑物门;建筑物正门	991001	庆云街12号附近	104.409358,30.859021	四川省	成都市	金堂县	26124

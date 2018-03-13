@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFG3NZ9P	太阳广场(南门)	通行设施;建筑物门;建筑物正门	991001	上塘街175号太阳广场F1层	120.600908,31.312692	江苏省	苏州市	姑苏区	11014

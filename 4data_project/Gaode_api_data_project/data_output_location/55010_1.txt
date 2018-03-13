@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHTR0VI	星河国际大厦B座(1号门)	通行设施;建筑物门;建筑物正门	991001	中心二路与福田中心二路交叉口西南50米	114.055000,22.532279	广东省	深圳市	福田区	55010

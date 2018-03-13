@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHBAH9F	西河镇综合文化站(东门)	通行设施;建筑物门;建筑物正门	991001	西河镇开元南路	104.231572,30.646709	四川省	成都市	龙泉驿区	29570

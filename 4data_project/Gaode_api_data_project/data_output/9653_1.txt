@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHE3UJ9	中房金谊广场(西4门)	通行设施;建筑物门;建筑物正门	991001	上南路4467弄20号中房金谊广场F1层	121.513003,31.140811	上海市	上海市	浦东新区	9653

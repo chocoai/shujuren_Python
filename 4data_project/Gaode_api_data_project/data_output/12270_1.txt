@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFH1101O	汇阳广场(北二门)	通行设施;建筑物门;建筑物正门	991001	田林东路75号汇阳广场F1层	121.433342,31.174502	上海市	上海市	徐汇区	12270

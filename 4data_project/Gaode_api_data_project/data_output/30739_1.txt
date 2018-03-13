@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHECHUT	春和广场(北门)	通行设施;建筑物门;建筑物正门	991001	靖城路193号附近	120.414083,36.299560	山东省	青岛市	城阳区	30739

@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B023E13RNO	世纪东方广场(B门)	通行设施;建筑物门;建筑物正门	991001	世纪东方商业广场16	121.594650,29.862113	浙江省	宁波市	鄞州区	4476

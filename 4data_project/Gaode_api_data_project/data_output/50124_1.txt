@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFI6M0XF	家纺城新天地(北门)	通行设施;建筑物门;建筑物正门	991001	五洲路与华润南路交叉口东南50米	121.074716,31.959512	江苏省	南通市	通州区	50124

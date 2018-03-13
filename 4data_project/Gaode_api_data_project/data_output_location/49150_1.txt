@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHG040E	AEONMALL(D入口)	通行设施;建筑物门;建筑物正门	991001	友谊南路111号AEONMALL1层	117.218645,39.027113	天津市	天津市	西青区	49150

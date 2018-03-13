@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHMM1X6	滨江·俊发广场(东北门)	通行设施;建筑物门;建筑物正门	991001	白云路579号滨江·俊发广场F1层	102.717504,25.066909	云南省	昆明市	盘龙区	55804

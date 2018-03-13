@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGA5E8Y	通程奥特莱斯(东门)	通行设施;建筑物门;建筑物正门	991001	万家丽中路与万家丽路高架入口交叉口西南50米	113.029244,28.167890	湖南省	长沙市	雨花区	49734

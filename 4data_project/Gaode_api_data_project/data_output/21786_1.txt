@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHFHRKU	金狮广场(1号门)	通行设施;建筑物门;建筑物正门	991001	香港东路195号乙	120.463760,36.095375	山东省	青岛市	崂山区	21786

@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHITK5W	金辉国际广场(出入口)	通行设施;建筑物门;建筑物正门	991001	唐延路北段22号金辉国际广场1F层	108.887731,34.249623	陕西省	西安市	雁塔区	57013

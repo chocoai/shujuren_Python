@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFIPSRR1	百捷国际中心(西北门)	通行设施;建筑物门;建筑物正门	991001	乐园路附近	118.569649,24.884342	福建省	泉州市	晋江市	49077

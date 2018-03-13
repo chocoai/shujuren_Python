@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHJDDZP	诺亚新天地(出入口)	通行设施;建筑物门;建筑物正门	991001	牡丹江路318号诺亚新天地1F层	121.495934,31.382069	上海市	上海市	宝山区	24941

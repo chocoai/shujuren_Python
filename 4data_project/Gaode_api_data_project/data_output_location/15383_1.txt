@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFFTPC0E	繁花中心(3号门)	通行设施;建筑物门;建筑物正门	991001	人民路4555号繁花中心F1层	120.607331,31.360139	江苏省	苏州市	相城区	15383

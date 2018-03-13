@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHTMK80	丽晟广场B座(正门)	通行设施;建筑物门;建筑物正门	991001	浦建路1827号附近	121.528956,31.205922	上海市	上海市	浦东新区	19916

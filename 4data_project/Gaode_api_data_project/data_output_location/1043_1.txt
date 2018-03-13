@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFFA3EFJ	凯德广场(3号门)	通行设施;建筑物门;建筑物正门	991001	万科路9号凯德广场F1层	104.152241,30.626736	四川省	成都市	成华区	1043
+B0FFFZC1D0	凯德广场(1号门)	通行设施;建筑物门;建筑物正门	991001	万科路9号凯德广场F1层	104.153443,30.626386	四川省	成都市	成华区	1043

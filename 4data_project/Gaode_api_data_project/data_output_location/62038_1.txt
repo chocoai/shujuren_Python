@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGFUU2X	洪武公馆(东南门)	通行设施;建筑物门;建筑物正门	991001	洪武路166-2临附近	118.786901,32.035236	江苏省	南京市	秦淮区	62038

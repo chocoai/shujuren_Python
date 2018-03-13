@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFFS3NMS	卜蜂莲花洋河店(西北1门)	通行设施;建筑物门;建筑物正门	991001	红黄路24-附5号附近	106.533574,29.586527	重庆市	重庆市	渝北区	15787

@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHLRH9I	万达广场C2座(西北门)	通行设施;建筑物门;建筑物正门	991001	台江金街B2座附近	119.341874,26.053068	福建省	福州市	台江区	2286
+B024F0X5XZ	万达广场(室内步行街A门)	通行设施;建筑物门;建筑物正门	991001	鳌峰路31号万达广场1F层	119.343631,26.053397	福建省	福州市	台江区	2286

@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHDU3EU	朗汇68(东北门)	通行设施;建筑物门;建筑物正门	991001	武珞路518号朗汇68F1层	114.332767,30.532888	湖北省	武汉市	武昌区	24846

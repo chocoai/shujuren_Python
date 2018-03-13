@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFI6OHIE	银泰百货(西二门)	通行设施;建筑物门;建筑物正门	991001	南山路150号银泰百货F1层	121.412524,29.663788	浙江省	宁波市	奉化区	21158

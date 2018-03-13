@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHGK2W9	海津医院(东北门)	通行设施;建筑物门;建筑物正门	991001	东风桥与津滨大道交叉口西南100米	117.248128,39.124074	天津市	天津市	河东区	40543

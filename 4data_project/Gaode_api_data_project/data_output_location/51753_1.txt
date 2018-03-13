@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHQRBNU	万达百货广州增城店(正门)	通行设施;建筑物门;建筑物正门	991001	增城大道69号1幢附近	113.815371,23.276656	广东省	广州市	增城区	51753
+B0FFHLHJ95	万达广场(出入口)	通行设施;建筑物门;建筑物正门	991001	增城大道69号万达广场F1层	113.816026,23.275086	广东省	广州市	增城区	51753

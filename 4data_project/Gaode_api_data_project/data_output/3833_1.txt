@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFH36JCG	明海商业广场(2号门)	通行设施;建筑物门;建筑物正门	991001	西陆路196号	121.619583,29.924886	浙江省	宁波市	镇海区	3833

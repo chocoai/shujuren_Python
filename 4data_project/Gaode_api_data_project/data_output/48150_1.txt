@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGBO4D2	百联奥特莱斯广场(1号门)	通行设施;建筑物门;建筑物正门	991001	盘龙城盘龙大道51号百联奥特莱斯广场F1层	114.258804,30.729327	湖北省	武汉市	黄陂区	48150

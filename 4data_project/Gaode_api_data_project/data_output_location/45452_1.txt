@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFH15ZFG	世贸中心大厦B幢(东门)	通行设施;建筑物门;建筑物正门	991001	山西路60号附近	118.770675,32.065018	江苏省	南京市	鼓楼区	45452
+B0FFH56TJL	南京特别市第六区区公所旧址(东北门)	通行设施;建筑物门;建筑物正门	991001	江苏路39号	118.769224,32.065318	江苏省	南京市	鼓楼区	45452

@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHFBSOG	纪念日百货武汉武昌二店(西北门)	通行设施;建筑物门;建筑物正门	991001	解放路340号号附近	114.298599,30.541872	湖北省	武汉市	武昌区	1966
+B0FFG4G57S	ATM潮流百货(东门)	通行设施;建筑物门;建筑物正门	991001	解放路391号	114.298499,30.542573	湖北省	武汉市	武昌区	1966

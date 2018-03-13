@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFG3V5YL	龙湖西街星座B座(西南门)	通行设施;建筑物门;建筑物正门	991001	珠江路48号B座附近	106.517157,29.510801	重庆市	重庆市	九龙坡区	10092

@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFIAVE5C	万众新世界广场(西门)	通行设施;建筑物门;建筑物正门	991001	长江路550号附近	121.186226,31.892634	江苏省	南通市	海门市	24805
+B0FFG4JJ6R	时代广场C座(西门)	通行设施;建筑物门;建筑物正门	991001	中南世纪城17	120.898090,31.970217	江苏省	南通市	崇川区	24805

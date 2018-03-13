@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGCHVRY	万和汇购物广场(西三门)	通行设施;建筑物门;建筑物正门	991001	金马路208号万和汇购物广场F1层	121.780416,39.048182	辽宁省	大连市	金州区	32726

@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGHQ340	建业凯旋广场(南门)	通行设施;建筑物门;建筑物正门	991001	农科路与花园路交叉口西100米	113.680806,34.792643	河南省	郑州市	金水区	2668

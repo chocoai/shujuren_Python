@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGI181T	世茂国际广场东座(正门)	通行设施;建筑物门;建筑物正门	991001	黑虎泉北路187号世茂国际广场F1层	117.029401,36.665102	山东省	济南市	历下区	16240

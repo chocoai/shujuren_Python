@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGYZVH6	财富又一城购物中心(东南二门)	通行设施;建筑物门;建筑物正门	991001	府青路二段2号财富又一城购物中心F1层	104.094713,30.677736	四川省	成都市	成华区	27419

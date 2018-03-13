@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFH27INN	勤隆商场(西门)	通行设施;建筑物门;建筑物正门	991001	双山大街30号附近	117.531149,36.698273	山东省	济南市	章丘区	25902

@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFI69FRS	CCPARK艺术生活主题购物中心(北三门)	通行设施;建筑物门;建筑物正门	991001	千佛山路1号CCPARK艺术生活主题购物中心F1层	117.029262,36.653745	山东省	济南市	历下区	26988

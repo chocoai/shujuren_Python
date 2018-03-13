@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGH2XSM	金鹰国际购物中心(东1门)	通行设施;建筑物门;建筑物正门	991001	双龙大道1688号	118.821200,31.932158	江苏省	南京市	江宁区	25619

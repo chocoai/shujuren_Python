@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHCZIRY	武汉国际广场AB座(东2门)	通行设施;建筑物门;建筑物正门	991001	解放大道690号武汉国际广场AB座F1层	114.271389,30.580625	湖北省	武汉市	江汉区	2585
+B0FFHCZISD	武汉国际广场C座(西1门)	通行设施;建筑物门;建筑物正门	991001	解放大道690号武汉国际广场C座F1层	114.271387,30.578774	湖北省	武汉市	江汉区	2585

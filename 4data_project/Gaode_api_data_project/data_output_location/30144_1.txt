@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFI6989J	万达广场(北一门)	通行设施;建筑物门;建筑物正门	991001	星光大道789号万达广场F1层	105.927250,29.336091	重庆市	重庆市	永川区	30144

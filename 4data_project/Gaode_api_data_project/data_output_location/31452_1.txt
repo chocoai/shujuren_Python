@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFG7QP4S	乐天青春馆(北门)	通行设施;建筑物门;建筑物正门	991001	白龙江街13号附近	123.432882,41.823063	辽宁省	沈阳市	皇姑区	31452

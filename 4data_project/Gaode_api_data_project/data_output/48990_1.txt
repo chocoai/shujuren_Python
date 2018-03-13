@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHCZ85T	嘉洲广场(西北二门)	通行设施;建筑物门;建筑物正门	991001	广佛一路98号嘉洲广场F1层	113.189237,23.109364	广东省	佛山市	南海区	48990
+B0FFG9XK3X	嘉洲广场(西北一门)	通行设施;建筑物门;建筑物正门	991001	广佛一路98号嘉洲广场F1层	113.188266,23.108458	广东省	佛山市	南海区	48990

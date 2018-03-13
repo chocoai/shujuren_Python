@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHLHFJU	盈信城市广场A区(南二门)	通行设施;建筑物门;建筑物正门	991001	文华路11号盈信城市广场A区F1层	113.076545,22.870471	广东省	佛山市	顺德区	22497

@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFFYS2EN	万达广场(建筑物正门)	通行设施;建筑物门;建筑物正门	991001	河埒口梁溪路35号万达广场F1层	120.268175,31.562562	江苏省	无锡市	滨湖区	1879

@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHJTYN6	SM购物中心(5号门)	通行设施;建筑物门;建筑物正门	991001	华辰路与福兴路交叉口东北200米	118.567340,24.777861	福建省	泉州市	晋江市	52264
+B0FFH2JK4B	泉州晋江SM国际广场(1号门)	通行设施;建筑物门;建筑物正门	991001	福兴路684号泉州晋江SM国际广场1F层	118.566513,24.777121	福建省	泉州市	晋江市	52264

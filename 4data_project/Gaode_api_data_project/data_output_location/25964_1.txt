@@ -1,0 +1,3 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFHRLELM	乐坊精致生活广场东区(南一门)	通行设施;建筑物门;建筑物正门	991001	金鼎路2218号乐坊精致生活广场东区1F层	121.365583,31.258847	上海市	上海市	嘉定区	25964
+B0FFGCEDFF	金鼎商务楼(西北门)	通行设施;建筑物门;建筑物正门	991001	定边路258号附近	121.364768,31.259263	上海市	上海市	嘉定区	25964

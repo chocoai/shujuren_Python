@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFG7MYOD	中粮沈阳大悦城B区西塔(东南门)	通行设施;建筑物门;建筑物正门	991001	公合巷与小东路山东馆巷交叉口西50米	123.466518,41.801254	辽宁省	沈阳市	大东区	4470

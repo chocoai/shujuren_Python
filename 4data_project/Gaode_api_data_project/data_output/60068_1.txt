@@ -1,0 +1,2 @@
+id	name	type	typecode	address	location	pname	cityname	adname	projectid
+B0FFGWQPQT	科为广场A(西南门)	通行设施;建筑物门;建筑物正门	991001	航天大道101号附近	108.956536,34.173360	陕西省	西安市	长安区	60068
