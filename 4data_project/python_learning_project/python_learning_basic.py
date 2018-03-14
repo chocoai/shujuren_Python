@@ -1,4 +1,6 @@
-#Python 遍历
+#Python3基础知识
+#-*- coding:utf-8 -*-
+
 # list的遍历
 # project_list = ["广州正佳广场", "广州天河城", "广州花城汇"]
 #
@@ -134,6 +136,26 @@
 # r=move(100, 100, 60, math.pi/6)
 # print(r)
 # 必选参数，默认参数，可变参数，关键字参数和命名参数
+# 函数操作
+def my_abs(x):
+    if x >= 0:
+        return x
+    else:
+        return -x
+
+# print(my_abs(1))
+# print(my_abs(-1))
+# print(my_abs(1, 2))
+# print(my_abs("A"))
+
+def my_abs1(x):
+    if not isinstance(x, (int, float)):
+        raise TypeError('bad operand type')
+
+def hello():
+    print("Hello world!")
+print(hello())
+
 # 高级特性
 # 1 切片
 # 2 迭代
