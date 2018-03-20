@@ -73,3 +73,5 @@ model = SelectFromModel(clf, prefit=True)
 X_new = model.transform(X)
 print(X_new.shape)
 print(X_new[:1,])
+
+
