@@ -15,7 +15,7 @@ sheet=poiExcel.add_sheet("gaode_poi_result") # 新建gaode_poi_result工作表
 for colIndex in range(len(poiTag)):
     sheet.write(0, colIndex, poiTag[colIndex])
 
-url = "http://restapi.amap.com/v3/place/text?&keywords="+ urllib.parse.quote("上海五角场万达广场") + "&types=" + "&city=" + "&citylimit=true&output=xml&offset=" + str(10) + "&page=" + str(1) + "&key=ee01b807a44b0db2b54432c3b3665f9a&extensions=base"
+url = "http://restapi.amap.com/v3/place/text?&keywords="+ urllib.parse.quote("上海五角场万达广场") + "&types=" + "&city=" + "&citylimit=true&output=xml&offset=" + str(10) + "&page=" + str(1) + "&key=&extensions=base"
 # open_url=urllib.request.urlopen(url)
 # print(open_url)
 

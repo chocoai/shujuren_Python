@@ -25,7 +25,7 @@ types="120000" # 商务住宅
 for pageIndex in range(1, maxPage+1):
     try:
         # 目标api链接
-        url="http://restapi.amap.com/v3/place/text?&keywords=&types="+types+"&city="+city+"&citylimit=true&output=xml&offset="+str(offset)+"&page="+str(pageIndex)+"&key=ee01b807a44b0db2b54432c3b3665f9a&extensions=base"
+        url="http://restapi.amap.com/v3/place/text?&keywords=&types="+types+"&city="+city+"&citylimit=true&output=xml&offset="+str(offset)+"&page="+str(pageIndex)+"&key=&extensions=base"
         poiSoup=BeautifulSoup(urllib.request.urlopen(url).read(),"xml")
         for tagIndex in range(len(poiTag)):
             poiSoupTag[tagIndex]=poiSoup.findAll(poiTag[tagIndex])

@@ -88,7 +88,7 @@ for i in range(3):
         sheet.write(0, colIndex, poiTag[colIndex])
     for pageIndex in range(1, maxPage+1):
         try:
-            url = "http://restapi.amap.com/v3/place/text?&keywords=" + urllib.parse.quote(keywords_list[i]) + "&types=" + "&city=" + "&citylimit=true&output=xml&offset=" + str(maxoffset) + "&page=" + str(pageIndex) + "&key=ee01b807a44b0db2b54432c3b3665f9a&extensions=base"
+            url = "http://restapi.amap.com/v3/place/text?&keywords=" + urllib.parse.quote(keywords_list[i]) + "&types=" + "&city=" + "&citylimit=true&output=xml&offset=" + str(maxoffset) + "&page=" + str(pageIndex) + "&key=&extensions=base"
             poiSoup = BeautifulSoup(urllib.request.urlopen(url).read(), "xml")
             for tagIndex in range(len(poiTag)-1):
                 poiSoupTag[tagIndex] = poiSoup.findAll(poiTag[tagIndex])
